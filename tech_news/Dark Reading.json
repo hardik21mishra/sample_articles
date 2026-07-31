@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
+        "source": "Dark Reading",
+        "description": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
+        "published_date": "Thu, 30 Jul 2026 21:16:13 GMT",
+        "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks"
+    },
+    {
+        "title": "AI Harnesses Burst With Potential Exploit Opps",
+        "source": "Dark Reading",
+        "description": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+        "published_date": "Thu, 30 Jul 2026 19:40:40 GMT",
+        "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps"
+    },
+    {
+        "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
+        "source": "Dark Reading",
+        "description": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+        "published_date": "Thu, 30 Jul 2026 15:28:43 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality"
+    },
+    {
+        "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+        "source": "Dark Reading",
+        "description": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+        "published_date": "Thu, 30 Jul 2026 01:00:00 GMT",
+        "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power"
+    },
+    {
+        "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+        "source": "Dark Reading",
+        "description": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+        "published_date": "Thu, 30 Jul 2026 00:30:00 GMT",
+        "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china"
+    },
+    {
+        "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+        "source": "Dark Reading",
+        "description": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
+        "published_date": "Wed, 29 Jul 2026 19:48:12 GMT",
+        "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face"
+    },
+    {
+        "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
+        "source": "Dark Reading",
+        "description": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+        "published_date": "Wed, 29 Jul 2026 19:46:20 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense"
+    },
+    {
+        "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+        "source": "Dark Reading",
+        "description": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+        "published_date": "Wed, 29 Jul 2026 17:43:38 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions"
+    },
+    {
+        "title": "Hugging Face Hack: Lessons for Cyber Defenders",
+        "source": "Dark Reading",
+        "description": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+        "published_date": "Wed, 29 Jul 2026 17:35:23 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders"
+    },
+    {
+        "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+        "source": "Dark Reading",
+        "description": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+        "published_date": "Wed, 29 Jul 2026 17:06:52 GMT",
+        "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector"
+    },
+    {
+        "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+        "source": "Dark Reading",
+        "description": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+        "published_date": "Wed, 29 Jul 2026 14:40:33 GMT",
+        "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms"
+    },
+    {
+        "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+        "source": "Dark Reading",
+        "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
+        "published_date": "Tue, 28 Jul 2026 21:33:23 GMT",
+        "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path"
+    },
+    {
+        "title": "Thousands of Data Center Controllers Open to Takeover",
+        "source": "Dark Reading",
+        "description": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
+        "published_date": "Tue, 28 Jul 2026 21:07:55 GMT",
+        "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover"
+    },
+    {
+        "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+        "source": "Dark Reading",
+        "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+        "published_date": "Tue, 28 Jul 2026 20:27:36 GMT",
+        "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply"
+    },
+    {
+        "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+        "source": "Dark Reading",
+        "description": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+        "published_date": "Tue, 28 Jul 2026 20:05:32 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box"
+    },
+    {
+        "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+        "source": "Dark Reading",
+        "description": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+        "published_date": "Tue, 28 Jul 2026 16:38:48 GMT",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates"
+    },
+    {
+        "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+        "source": "Dark Reading",
+        "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+        "published_date": "Tue, 28 Jul 2026 12:30:00 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader"
+    },
+    {
+        "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+        "source": "Dark Reading",
+        "description": "Attackers used Hermes, an autonomous open source tool, in unrestricted &quot;YOLO mode&quot; to conduct espionage against Thailand's Ministry of Finance.",
+        "published_date": "Tue, 28 Jul 2026 01:00:00 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance"
+    },
+    {
+        "title": "Agentic Browsers Rewind Web Security by 20 Years",
+        "source": "Dark Reading",
+        "description": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+        "published_date": "Mon, 27 Jul 2026 21:39:09 GMT",
+        "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years"
+    },
+    {
+        "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+        "source": "Dark Reading",
+        "description": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+        "published_date": "Mon, 27 Jul 2026 20:57:26 GMT",
+        "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure"
+    },
+    {
+        "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+        "source": "Dark Reading",
+        "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+        "published_date": "Mon, 27 Jul 2026 20:33:29 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown"
+    },
+    {
+        "title": "Why Resetting Passwords No Longer Stops Attackers",
+        "source": "Dark Reading",
+        "description": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+        "published_date": "Mon, 27 Jul 2026 18:39:50 GMT",
+        "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks"
+    },
+    {
+        "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+        "source": "Dark Reading",
+        "description": "Confidence in autonomous security tools is declining, and here's why.",
+        "published_date": "Mon, 27 Jul 2026 17:31:18 GMT",
+        "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook"
+    },
+    {
+        "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+        "source": "Dark Reading",
+        "description": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+        "published_date": "Fri, 24 Jul 2026 21:31:53 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-"
+    },
+    {
+        "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+        "source": "Dark Reading",
+        "description": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+        "published_date": "Fri, 24 Jul 2026 19:45:02 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation"
+    },
+    {
+        "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
+        "source": "Dark Reading",
+        "description": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
+        "published_date": "Fri, 24 Jul 2026 13:00:00 GMT",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii"
+    },
+    {
+        "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+        "source": "Dark Reading",
+        "description": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
+        "published_date": "Fri, 24 Jul 2026 12:48:16 GMT",
+        "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover"
+    },
+    {
+        "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
+        "source": "Dark Reading",
+        "description": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
+        "published_date": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps"
+    },
+    {
+        "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
+        "source": "Dark Reading",
+        "description": "A state-sponsored threat group, dubbed &quot;Laundry Bear,&quot; sends &quot;half-click&quot; phishing emails that require a victim only to open or preview the message.",
+        "published_date": "Thu, 23 Jul 2026 21:23:18 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets"
+    },
+    {
+        "title": "Agentic AI Challenges Progress in Confidential Computing",
+        "source": "Dark Reading",
+        "description": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
+        "published_date": "Thu, 23 Jul 2026 11:17:51 GMT",
+        "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing"
+    },
+    {
+        "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+        "source": "Dark Reading",
+        "description": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
+        "published_date": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal"
+    },
+    {
+        "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
+        "source": "Dark Reading",
+        "description": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
+        "published_date": "Thu, 23 Jul 2026 01:00:00 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain"
+    },
+    {
+        "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
+        "source": "Dark Reading",
+        "description": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
+        "published_date": "Wed, 22 Jul 2026 23:50:01 GMT",
+        "link": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work"
+    },
+    {
+        "title": "Attackers Are Learning to Live Off the AI Toolchain",
+        "source": "Dark Reading",
+        "description": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+        "published_date": "Wed, 22 Jul 2026 21:29:01 GMT",
+        "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain"
+    },
+    {
+        "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
+        "source": "Dark Reading",
+        "description": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
+        "published_date": "Wed, 22 Jul 2026 19:42:42 GMT",
+        "link": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware"
+    },
+    {
+        "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
+        "source": "Dark Reading",
+        "description": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
+        "published_date": "Wed, 22 Jul 2026 15:53:47 GMT",
+        "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face"
+    },
+    {
+        "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
+        "source": "Dark Reading",
+        "description": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
+        "published_date": "Wed, 22 Jul 2026 11:30:00 GMT",
+        "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers"
+    },
+    {
+        "title": "Ransomware Is Accelerating, but It's Not Because of AI",
+        "source": "Dark Reading",
+        "description": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+        "published_date": "Tue, 21 Jul 2026 21:48:05 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai"
+    },
+    {
+        "title": "Using LLMs to Find &amp; Prioritize Vulnerabilities Is No Easy Task",
+        "source": "Dark Reading",
+        "description": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
+        "published_date": "Tue, 21 Jul 2026 21:27:37 GMT",
+        "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task"
+    },
+    {
+        "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
+        "source": "Dark Reading",
+        "description": "A Russian-speaking actor, &quot;Trim,&quot; dismantled publicly available frontier models and integrated them with offensive security tools.",
+        "published_date": "Tue, 21 Jul 2026 18:38:52 GMT",
+        "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform"
+    },
+    {
+        "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
+        "source": "Dark Reading",
+        "description": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
+        "published_date": "Tue, 21 Jul 2026 13:00:00 GMT",
+        "link": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies"
+    },
+    {
+        "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+        "source": "Dark Reading",
+        "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+        "published_date": "Mon, 20 Jul 2026 21:38:18 GMT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover"
+    },
+    {
+        "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+        "source": "Dark Reading",
+        "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
+        "published_date": "Mon, 20 Jul 2026 20:26:56 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation"
+    },
+    {
+        "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+        "source": "Dark Reading",
+        "description": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+        "published_date": "Mon, 20 Jul 2026 19:32:04 GMT",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2"
+    },
+    {
+        "title": "CISOs Feel the Heat Over AI Risk",
+        "source": "Dark Reading",
+        "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+        "published_date": "Mon, 20 Jul 2026 19:07:01 GMT",
+        "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk"
+    },
+    {
+        "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+        "source": "Dark Reading",
+        "description": "&quot;The TFF Trap&quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+        "published_date": "Mon, 20 Jul 2026 18:30:22 GMT",
+        "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing"
+    },
+    {
+        "title": "Cybersecurity Keeps Events 'Uneventful'",
+        "source": "Dark Reading",
+        "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
+        "published_date": "Mon, 20 Jul 2026 14:00:00 GMT",
+        "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful"
+    },
+    {
+        "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+        "source": "Dark Reading",
+        "description": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+        "published_date": "Fri, 17 Jul 2026 20:01:13 GMT",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
+    },
+    {
+        "title": "The Real AI Threat Is Blind Trust",
+        "source": "Dark Reading",
+        "description": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
+        "published_date": "Fri, 17 Jul 2026 16:43:13 GMT",
+        "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust"
+    },
+    {
+        "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+        "source": "Dark Reading",
+        "description": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+        "published_date": "Fri, 17 Jul 2026 13:00:00 GMT",
+        "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap"
+    }
+]

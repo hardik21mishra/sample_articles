@@ -1,0 +1,107 @@
+[
+    {
+        "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/\">The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Fri, 31 Jul 2026 10:00:18 +0000",
+        "link": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/"
+    },
+    {
+        "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Unit 42 details a Chinese speaking threat actor combining autonomous AI scanning across seven vulnerabilities with manual exploitation. Read more.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/\">Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 10:00:52 +0000",
+        "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/"
+    },
+    {
+        "title": "Russian Global Webmail Espionage",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Unit 42 details a Russian cyberespionage campaign targeting  Zimbra webmail servers using JavaScript injection to steal credentials.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/russian-webmail-espionage/\">Russian Global Webmail Espionage</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Thu, 23 Jul 2026 14:10:53 +0000",
+        "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/"
+    },
+    {
+        "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/\">Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Fri, 17 Jul 2026 10:00:24 +0000",
+        "link": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/"
+    },
+    {
+        "title": "AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/\">AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Thu, 16 Jul 2026 23:00:59 +0000",
+        "link": "https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/"
+    },
+    {
+        "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/\">The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Wed, 15 Jul 2026 23:00:33 +0000",
+        "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+    },
+    {
+        "title": "TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>TuxBot v3 Evolution, an IoT botnet framework built with LLMs. Read our analysis of its cross-compiled binaries, C2 architecture and bugs.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/\">TuxBot v3: Inside an IoT Botnet Framework With LLM-Assisted Development</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Wed, 15 Jul 2026 10:00:54 +0000",
+        "link": "https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/"
+    },
+    {
+        "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/\">No Manners Here: The Ruthless Rise of The Gentlemen Ransomware</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Fri, 10 Jul 2026 22:00:39 +0000",
+        "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
+    },
+    {
+        "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/\">Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Tue, 07 Jul 2026 22:00:21 +0000",
+        "link": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/"
+    },
+    {
+        "title": "How We Added WebAuthn to a Browser-Based RDP Client",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/\">How We Added WebAuthn to a Browser-Based RDP Client</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Thu, 02 Jul 2026 22:00:39 +0000",
+        "link": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/"
+    },
+    {
+        "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/\">Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Wed, 01 Jul 2026 01:00:11 +0000",
+        "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/"
+    },
+    {
+        "title": "Threat Brief: Mitigating Large-Scale Credential Attacks",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/large-scale-credential-attacks/\">Threat Brief: Mitigating Large-Scale Credential Attacks</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Fri, 26 Jun 2026 19:05:33 +0000",
+        "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/"
+    },
+    {
+        "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/\">CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Thu, 25 Jun 2026 22:00:52 +0000",
+        "link": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/"
+    },
+    {
+        "title": "OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Unit 42's analysis of ClawHub revealed evasive malicious skills bypassing automated scanners to deploy infostealers and execute agentic financial fraud.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/\">OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Tue, 23 Jun 2026 22:00:51 +0000",
+        "link": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/"
+    },
+    {
+        "title": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
+        "source": "Palo Alto Unit 42",
+        "description": "<p>Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/\">The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>",
+        "published_date": "Mon, 22 Jun 2026 22:00:04 +0000",
+        "link": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/"
+    }
+]

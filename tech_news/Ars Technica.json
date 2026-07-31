@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Quantum computers outperform classical ones, with results you can trust",
+        "source": "Ars Technica",
+        "description": "Three approaches to the issue of quantum results that can't be verified classically.",
+        "published_date": "Thu, 30 Jul 2026 15:59:37 +0000",
+        "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
+    },
+    {
+        "title": "New MCP specification addresses the main barrier to enterprise adoption",
+        "source": "Ars Technica",
+        "description": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+        "published_date": "Thu, 30 Jul 2026 14:53:07 +0000",
+        "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
+    },
+    {
+        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+        "source": "Ars Technica",
+        "description": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+        "published_date": "Wed, 29 Jul 2026 22:07:06 +0000",
+        "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+    },
+    {
+        "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+        "source": "Ars Technica",
+        "description": "Advertisers agreed to “reset” relationship with X.",
+        "published_date": "Wed, 29 Jul 2026 20:57:35 +0000",
+        "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/"
+    },
+    {
+        "title": "Who wins and who loses after US bans foreign robots?",
+        "source": "Ars Technica",
+        "description": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+        "published_date": "Wed, 29 Jul 2026 20:03:42 +0000",
+        "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/"
+    },
+    {
+        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+        "source": "Ars Technica",
+        "description": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+        "published_date": "Wed, 29 Jul 2026 19:33:55 +0000",
+        "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/"
+    },
+    {
+        "title": "Customize Ars your way with an Ars Pro subscription",
+        "source": "Ars Technica",
+        "description": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+        "published_date": "Wed, 29 Jul 2026 19:23:27 +0000",
+        "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/"
+    },
+    {
+        "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+        "source": "Ars Technica",
+        "description": "Google's new API relies on parents to set age ranges in Family Link.",
+        "published_date": "Wed, 29 Jul 2026 18:08:22 +0000",
+        "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/"
+    },
+    {
+        "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+        "source": "Ars Technica",
+        "description": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
+        "published_date": "Wed, 29 Jul 2026 17:58:24 +0000",
+        "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/"
+    },
+    {
+        "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+        "source": "Ars Technica",
+        "description": "Companies are making sure we have a surplus of options for building qubits.",
+        "published_date": "Wed, 29 Jul 2026 17:37:47 +0000",
+        "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/"
+    },
+    {
+        "title": "Actually, Starliner might fly into space this year",
+        "source": "Ars Technica",
+        "description": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
+        "published_date": "Wed, 29 Jul 2026 17:24:41 +0000",
+        "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/"
+    },
+    {
+        "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+        "source": "Ars Technica",
+        "description": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+        "published_date": "Wed, 29 Jul 2026 15:52:48 +0000",
+        "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
+    },
+    {
+        "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+        "source": "Ars Technica",
+        "description": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
+        "published_date": "Wed, 29 Jul 2026 15:33:20 +0000",
+        "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/"
+    },
+    {
+        "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
+        "source": "Ars Technica",
+        "description": "\"I'm beginning to suspect we are not in Jumanji.\"",
+        "published_date": "Wed, 29 Jul 2026 15:16:22 +0000",
+        "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/"
+    },
+    {
+        "title": "What happens when you put AI to work deciphering lost languages?",
+        "source": "Ars Technica",
+        "description": "AI is fantastic at spotting patterns, but human insight is the key.",
+        "published_date": "Wed, 29 Jul 2026 13:23:31 +0000",
+        "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
+    },
+    {
+        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+        "source": "Ars Technica",
+        "description": "Deciding what's real on the Internet won't be easy in the future.",
+        "published_date": "Wed, 29 Jul 2026 11:00:39 +0000",
+        "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
+    },
+    {
+        "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+        "source": "Ars Technica",
+        "description": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+        "published_date": "Wed, 29 Jul 2026 10:00:51 +0000",
+        "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/"
+    },
+    {
+        "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+        "source": "Ars Technica",
+        "description": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+        "published_date": "Wed, 29 Jul 2026 01:00:36 +0000",
+        "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/"
+    },
+    {
+        "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+        "source": "Ars Technica",
+        "description": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+        "published_date": "Tue, 28 Jul 2026 22:09:00 +0000",
+        "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/"
+    },
+    {
+        "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
+        "source": "Ars Technica",
+        "description": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
+        "published_date": "Tue, 28 Jul 2026 21:49:52 +0000",
+        "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "title": "Why your company should (try to) build its own AI SRE",
+        "source": "The New Stack",
+        "description": "<img alt=\"In this episode of The New Stack podcast, Sam Farid and Nate Heinrich of Chronosphere argue that AI agents should also be used for root-cause analysis, helping teams diagnose failures more quickly as model capabilities continue to improve.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/7d594e6f-new-thumbnail-1024x576.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Companies ship more code today than ever, thanks to agentic coding tools. For product teams, this accelerated pace of development</p>\n<p>The post <a href=\"https://thenewstack.io/ai-sre-root-cause-analysis/\">Why your company should (try to) build its own AI SRE</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 20:30:56 +0000",
+        "link": "https://thenewstack.io/ai-sre-root-cause-analysis/"
+    },
+    {
+        "title": "Chinese AI competitors may have forced OpenAI’s hand on pricing",
+        "source": "The New Stack",
+        "description": "<img alt=\"Sam Altman in an OpenAI video released in October 2025.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"648\" src=\"https://cdn.thenewstack.io/media/2026/07/efea7753-screenshot-2026-07-30-at-15.25.19-e1785439638411-1024x648.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>OpenAI has lowered API prices for two GPT-5.6 models only three weeks after their launch. On Thursday, the company announced</p>\n<p>The post <a href=\"https://thenewstack.io/gpt-5-6-api-price-cuts/\">Chinese AI competitors may have forced OpenAI&#8217;s hand on pricing</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 19:28:02 +0000",
+        "link": "https://thenewstack.io/gpt-5-6-api-price-cuts/"
+    },
+    {
+        "title": "AI-generated software is forcing yet another platform rethink",
+        "source": "The New Stack",
+        "description": "<img alt=\"A lone figure in an orange spacesuit stands on a narrow platform amid floating, blurred digital screens and glowing data streams.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/2542aec3-getty-images-sjt82addq-4-unsplash-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>&#8220;Raise your hand if your team is actively using AI to write and review code. Now keep it up if</p>\n<p>The post <a href=\"https://thenewstack.io/ai-code-security-platforms/\">AI-generated software is forcing yet another platform rethink</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 19:09:47 +0000",
+        "link": "https://thenewstack.io/ai-code-security-platforms/"
+    },
+    {
+        "title": "OpenAI and Elastic are tackling the AI problem enterprises can’t ignore",
+        "source": "The New Stack",
+        "description": "<img alt=\"Low-angle view of dark glass office towers framing an overcast sky.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"681\" src=\"https://cdn.thenewstack.io/media/2026/07/16611805-5010-xezwmxxlarw-unsplash-1024x681.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>It&#8217;s undeniable that enterprise AI has a context problem. Although frontier models are incredibly capable, if they can&#8217;t securely access</p>\n<p>The post <a href=\"https://thenewstack.io/openai-elastic-enterprise-context/\">OpenAI and Elastic are tackling the AI problem enterprises can’t ignore</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 18:42:32 +0000",
+        "link": "https://thenewstack.io/openai-elastic-enterprise-context/"
+    },
+    {
+        "title": "DNS is infrastructure. It’s time to manage it that way.",
+        "source": "The New Stack",
+        "description": "<img alt=\"Close-up of overlapping bicycle frames and rear lights illuminated by intense red light.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/07/33db1920-arjay-bernardo-kvrt8ih1tau-unsplash-1024x683.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Attackers aren&#8217;t always the reason for DNS failures &#8212; they can often be something much more routine. For example, the</p>\n<p>The post <a href=\"https://thenewstack.io/dns-domain-management-automation/\">DNS is infrastructure. It’s time to manage it that way.</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 15:00:00 +0000",
+        "link": "https://thenewstack.io/dns-domain-management-automation/"
+    },
+    {
+        "title": "Why linting alone can’t govern agentic development",
+        "source": "The New Stack",
+        "description": "<img alt=\"Dark abstract 3D digital architecture with massive glowing metallic structures, representing complex software systems.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/07/536f83d5-alex-shuper-y6ouxalmwew-unsplash-1024x683.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>There&#8217;s no question that AI agents are changing software development. They can move from an idea to a working implementation</p>\n<p>The post <a href=\"https://thenewstack.io/governing-agentic-software-development/\">Why linting alone can’t govern agentic development</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 15:00:00 +0000",
+        "link": "https://thenewstack.io/governing-agentic-software-development/"
+    },
+    {
+        "title": "When do AI agents need permission boundaries?",
+        "source": "The New Stack",
+        "description": "<img alt=\"Monochrome abstract grid warped by a deep distortion, symbolizing structural tension and system boundaries.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"540\" src=\"https://cdn.thenewstack.io/media/2026/07/a0f6a841-osarugue-igbinoba-eqscha021_q-unsplash-1024x540.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>An AI agent feels harmless when it only produces text, but the risk profile changes the moment it calls a</p>\n<p>The post <a href=\"https://thenewstack.io/ai-agent-permission-boundaries/\">When do AI agents need permission boundaries?</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 13:00:00 +0000",
+        "link": "https://thenewstack.io/ai-agent-permission-boundaries/"
+    },
+    {
+        "title": "IBM says quantum computers are getting harder to verify. That’s progress.",
+        "source": "The New Stack",
+        "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/07/6f7612cc-ibm_quantum_system_two_chandelier_detail_02-1024x683.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>IBM and its partners say quantum computers are now getting to the point where they can run calculations that can&#8217;t</p>\n<p>The post <a href=\"https://thenewstack.io/ibm-quantum-advantage-verification/\">IBM says quantum computers are getting harder to verify. That&#8217;s progress.</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Thu, 30 Jul 2026 10:00:00 +0000",
+        "link": "https://thenewstack.io/ibm-quantum-advantage-verification/"
+    },
+    {
+        "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
+        "source": "The New Stack",
+        "description": "<img alt=\"Server room in a data center\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2025/01/3d5432fc-storage-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>OpenAI introduced GPT-5.6 Sol earlier this month as a model built for more demanding coding tasks. But it didn&#8217;t take</p>\n<p>The post <a href=\"https://thenewstack.io/sol-usage-limits-reset/\">OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 18:44:41 +0000",
+        "link": "https://thenewstack.io/sol-usage-limits-reset/"
+    },
+    {
+        "title": "Anthropic backs urgent call for the most powerful AI labs to hit the brakes",
+        "source": "The New Stack",
+        "description": "<img alt=\"Network with robotic arm\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2023/12/a36c83ec-pexels-tara-winstead-8386440-1024x683.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Less than a week after OpenAI disclosed that two experimental AI models escaped their testing environment during a cybersecurity exercise</p>\n<p>The post <a href=\"https://thenewstack.io/ai-pause-framework-letter/\">Anthropic backs urgent call for the most powerful AI labs to hit the brakes</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 18:41:26 +0000",
+        "link": "https://thenewstack.io/ai-pause-framework-letter/"
+    },
+    {
+        "title": "“The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars",
+        "source": "The New Stack",
+        "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"768\" src=\"https://cdn.thenewstack.io/media/2026/07/570bfd0c-getty-images-qo6wc5j4a8m-unsplash-1024x768.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>As agentic services diversify across the entire enterprise technology stack, the rise of agentic coding tools is being challenged by</p>\n<p>The post <a href=\"https://thenewstack.io/burp-agentic-pentesting-control-layer/\">&#8220;The beast needs a cage&#8221;: Why PortSwigger&#8217;s agentic pentesting is kept safe behind bars</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 18:34:54 +0000",
+        "link": "https://thenewstack.io/burp-agentic-pentesting-control-layer/"
+    },
+    {
+        "title": "OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.",
+        "source": "The New Stack",
+        "description": "<img alt=\"Bekeen.co for Unsplash+: An illustration of India&#039;s flag\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"768\" src=\"https://cdn.thenewstack.io/media/2026/07/c357309e-bekeen-co-ftq7_gqanew-unsplash-1024x768.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Cursor is the latest AI company to target India with localized pricing, announcing on Tuesday a dedicated plan that sits</p>\n<p>The post <a href=\"https://thenewstack.io/cursor-anthropic-openai-india-pricing/\">OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 18:30:55 +0000",
+        "link": "https://thenewstack.io/cursor-anthropic-openai-india-pricing/"
+    },
+    {
+        "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+        "source": "The New Stack",
+        "description": "<img alt=\"Claude Opus 5\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/c15dceb4-54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620-1-1024x576.webp\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable</p>\n<p>The post <a href=\"https://thenewstack.io/opus-5-vs-fable-5/\">Opus 5 vs. Fable 5: What does half the price buy?</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 18:24:08 +0000",
+        "link": "https://thenewstack.io/opus-5-vs-fable-5/"
+    },
+    {
+        "title": "The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach",
+        "source": "The New Stack",
+        "description": "<img alt=\"Glitch-style collage of repeated red animal forms, broken by black horizontal bands and patches of cyan and pale pink.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"556\" src=\"https://cdn.thenewstack.io/media/2026/07/3dbc5db0-egor-komarov-swezl05imji-unsplash-1024x556.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>When he&#8217;s asked about the intensifying contest between rapidly advancing AI attackers and the software defenses meant to contain them,</p>\n<p>The post <a href=\"https://thenewstack.io/nanoclaw-echo-agent-runtime/\">The AI &#8220;vibe shift&#8221;: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 16:00:00 +0000",
+        "link": "https://thenewstack.io/nanoclaw-echo-agent-runtime/"
+    },
+    {
+        "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
+        "source": "The New Stack",
+        "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/1362eeb5-tsd-studio-ydarxoa1usm-unsplash-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Sandboxes for AI agents may feel like a solved problem. After all, projects like&#160;Firecracker, the open-source microVM technology AWS built</p>\n<p>The post <a href=\"https://thenewstack.io/perplexity-space-agent-sandboxes/\">“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 15:30:00 +0000",
+        "link": "https://thenewstack.io/perplexity-space-agent-sandboxes/"
+    },
+    {
+        "title": "Turning 10x developers into 10x value",
+        "source": "The New Stack",
+        "description": "<img alt=\"Dark abstract digital architectural structure representing enterprise software infrastructure and AI governance pipelines.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/7da9ba8e-kamran-abdullayev-sqpgpfiwixe-unsplash-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>When I sit down with leaders and ask why they&#8217;re investing in AI, the answer almost always comes back to</p>\n<p>The post <a href=\"https://thenewstack.io/building-the-10x-organization/\">Turning 10x developers into 10x value</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 14:00:00 +0000",
+        "link": "https://thenewstack.io/building-the-10x-organization/"
+    },
+    {
+        "title": "Your team isn’t “ignoring security.” They’re just underwater.",
+        "source": "The New Stack",
+        "description": "<img alt=\"Abstract digital glitch pattern with fragmented red, pink and cyan blocks, scattered letters and numbers against a black background.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"556\" src=\"https://cdn.thenewstack.io/media/2026/07/851e8d95-egor-komarov-9kndef3kkbm-unsplash-1024x556.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>A cloud security finding becomes useful only when someone decides what matters, assigns an owner, and follows it through. For</p>\n<p>The post <a href=\"https://thenewstack.io/cloud-security-triage-cadence/\">Your team isn’t &#8220;ignoring security.&#8221; They’re just underwater.</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 14:00:00 +0000",
+        "link": "https://thenewstack.io/cloud-security-triage-cadence/"
+    },
+    {
+        "title": "Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI",
+        "source": "The New Stack",
+        "description": "<img alt=\"Abstract red-and-black pattern of dense, irregular clusters resembling swirling smoke or tangled organic forms.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/7a85f94c-osarugue-igbinoba-ub1yykxmdoa-unsplash-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>OpenAI has detailed how the GPT-5.6 model family balances capability and cost across its stack, and the company‘s most important claim is a</p>\n<p>The post <a href=\"https://thenewstack.io/gpt-5-6-serving-efficiency/\">Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 13:04:39 +0000",
+        "link": "https://thenewstack.io/gpt-5-6-serving-efficiency/"
+    },
+    {
+        "title": "Modus’s operandi: To give AI agents just the right amount of context",
+        "source": "The New Stack",
+        "description": "<img alt=\"Abstract layers of glowing orange and yellow ribbons curl and fold into flowing, organic shapes.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"552\" src=\"https://cdn.thenewstack.io/media/2026/07/cd0bd732-a-c-1olzmloslfg-unsplash-1024x552.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>As more companies plug AI agents into the deepest depths of their internal data banks, how can they be sure</p>\n<p>The post <a href=\"https://thenewstack.io/modus-enterprise-context-warehouse/\">Modus&#8217;s operandi: To give AI agents just the right amount of context</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 13:00:00 +0000",
+        "link": "https://thenewstack.io/modus-enterprise-context-warehouse/"
+    },
+    {
+        "title": "Shipping code without human verification",
+        "source": "The New Stack",
+        "description": "<img alt=\"Abstract dark digital geometry with glowing green light nodes representing an automated code verification pipeline.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"563\" src=\"https://cdn.thenewstack.io/media/2026/07/9e222a5e-aakash-dhage-xunqlmdb_34-unsplash-1024x563.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Agents are writing code faster than humans can review it. The answer is not “review faster”; that would be like</p>\n<p>The post <a href=\"https://thenewstack.io/ship-code-without-verification/\">Shipping code without human verification</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Wed, 29 Jul 2026 13:00:00 +0000",
+        "link": "https://thenewstack.io/ship-code-without-verification/"
+    },
+    {
+        "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
+        "source": "The New Stack",
+        "description": "<img alt=\"Nvidia CEO Jensen Huang\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"392\" src=\"https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"648\" /><p>This week during an interview with Bloomberg, Jensen Huang made quite the prediction. The Nvidia CEO said the semiconductor industry</p>\n<p>The post <a href=\"https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/\">Jensen Huang says AI agents could drive a 5-10x computing boom: &#8220;100 billion agents and billions of robots&#8221;</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Tue, 28 Jul 2026 19:46:50 +0000",
+        "link": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents/"
+    },
+    {
+        "title": "Sam Altman on model distillation: “This is not in my top ten list of worries”",
+        "source": "The New Stack",
+        "description": "<img alt=\"Sam Altman, OpenAI CEO\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"585\" src=\"https://cdn.thenewstack.io/media/2026/03/f7a6563d-screenshot-2026-03-04-at-14.29.48-1024x585.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Sam Altman&#8217;s latest appearance on Patrick O&#8217;Shaughnessy&#8217;s Invest Like the Best podcast covered everything from AGI and robotics to the</p>\n<p>The post <a href=\"https://thenewstack.io/altman-security-distillation-scale/\">Sam Altman on model distillation: &#8220;This is not in my top ten list of worries&#8221;</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Tue, 28 Jul 2026 18:15:57 +0000",
+        "link": "https://thenewstack.io/altman-security-distillation-scale/"
+    },
+    {
+        "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
+        "source": "The New Stack",
+        "description": "<img alt=\"Abstract digital collage of overlapping geometric shapes, glitch patterns and wavy lines in vivid blue, cyan, pink and purple.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"664\" src=\"https://cdn.thenewstack.io/media/2026/07/b572698c-getty-images-zxyruqtmwhu-unsplash-1024x664.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Every major security vendor now has an AI copilot, but Mate Security thinks they&#8217;re solving the wrong problem. The Tel</p>\n<p>The post <a href=\"https://thenewstack.io/mate-security-context-graph/\">Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Tue, 28 Jul 2026 15:00:00 +0000",
+        "link": "https://thenewstack.io/mate-security-context-graph/"
+    },
+    {
+        "title": "Diagrid gives failed AI agents a way to resume",
+        "source": "The New Stack",
+        "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/418acfc4-getty-images-4oky858elvi-unsplash-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>AI agents can impress in a demo and still fumble in production. Diagrid&#8217;s Catalyst 2.0 aims to make them more</p>\n<p>The post <a href=\"https://thenewstack.io/diagrid-catalyst-agent-recovery/\">Diagrid gives failed AI agents a way to resume</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
+        "link": "https://thenewstack.io/diagrid-catalyst-agent-recovery/"
+    },
+    {
+        "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
+        "source": "The New Stack",
+        "description": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/07/e303d221-paul-campbell-86ehnqvlpx4-unsplash-1024x576.jpg\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>After eight years of building a no-code automation platform, Tines launched 3B Tuesday, a new platform that uses AI to</p>\n<p>The post <a href=\"https://thenewstack.io/tines-ai-workflow-governance/\">&#8220;There is a sell-by date on low-code, no-code&#8221;: What Tines thinks comes next</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
+        "link": "https://thenewstack.io/tines-ai-workflow-governance/"
+    },
+    {
+        "title": "When vendor-supplied support matters: How AI is changing the open source security equation",
+        "source": "The New Stack",
+        "description": "<img alt=\"Stylized blue ocean waves crest beneath a black sun as three white cranes fly across a textured beige sky.\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" height=\"791\" src=\"https://cdn.thenewstack.io/media/2026/07/9f41a684-viyanca-h9p-ypjq4qs-unsplash-1024x791.png\" style=\"display: block; margin: auto; margin-bottom: 20px;\" width=\"1024\" /><p>Every enterprise runs on open source, but keeping it secure has become significantly harder. Frontier AI models are uncovering vulnerabilities</p>\n<p>The post <a href=\"https://thenewstack.io/ai-open-source-security/\">When vendor-supplied support matters: How AI is changing the open source security equation</a> appeared first on <a href=\"https://thenewstack.io\">The New Stack</a>.</p>",
+        "published_date": "Tue, 28 Jul 2026 13:00:00 +0000",
+        "link": "https://thenewstack.io/ai-open-source-security/"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "title": "Servo 0.4 Browser Engine Gets More Websites Rendering Correctly",
+        "source": "Phoronix",
+        "description": "Servo 0.4 was just released for closing out the month of July. This month the Servo browser engine with its servoshell demo browser began rendering more real-world websites correctly...",
+        "published_date": "Fri, 31 Jul 2026 07:01:10 -0400",
+        "link": "https://www.phoronix.com/news/Servo-0.4-Released"
+    },
+    {
+        "title": "Nouveau Patch For Linux 7.3 Allows For NVK Vulkan Video Atop NVIDIA NVDEC",
+        "source": "Phoronix",
+        "description": "This week's round of drm-misc-next patches for staging ahead of the Linux 7.3 kernel merge window bring an exciting change for the open-source NVIDIA \"Nouveau\" driver...",
+        "published_date": "Fri, 31 Jul 2026 06:20:00 -0400",
+        "link": "https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC"
+    },
+    {
+        "title": "x86_64 Shadow Stack By Default Retargeted For Fedora 46",
+        "source": "Phoronix",
+        "description": "In recent weeks there was a proposal to enable x86_64 Shadow Stack support by default with the upcoming Fedora Linux 45 release. That change has been approved now by the Fedora Engineering and Steering Committee (FESCo) but with the feature being punted off to Fedora 46 next year...",
+        "published_date": "Fri, 31 Jul 2026 06:04:00 -0400",
+        "link": "https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans"
+    },
+    {
+        "title": "Vulkan 1.4.358 Released With New Image Tiling Control Extension",
+        "source": "Phoronix",
+        "description": "After two weeks without any Vulkan spec update, Vulkan 1.4.358 was released overnight. Besides the usual assortment of minor clarifications/fixes, Vulkan 1.4.358 introduces one new extension: VK_EXT_image_tiling_control...",
+        "published_date": "Fri, 31 Jul 2026 05:53:13 -0400",
+        "link": "https://www.phoronix.com/news/Vulkan-1.4.358"
+    },
+    {
+        "title": "Sound Fixes For Linux 7.2-rc6: \"Far Larger Than Wished\"",
+        "source": "Phoronix",
+        "description": "Linux sound subsystem maintainer Takashi Iwai of SUSE previously warned of many sound driver fixes due to AI/LLMs and a \"new normal\" of patch activity as a result. While we are approaching the end of the Linux 7.2 merge window with the stable release coming up in August, the sound patches continue trending higher and this week were \"far larger than wished\" ahead of Linux 7.2-rc6 due out on Sunday...",
+        "published_date": "Fri, 31 Jul 2026 05:26:56 -0400",
+        "link": "https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes"
+    },
+    {
+        "title": "Linux 7.3 Will Treat Intel Nova Lake S Graphics As Stable",
+        "source": "Phoronix",
+        "description": "Ahead of the next-generation Intel Nova Lake processors expected to begin rolling out around the start of 2027, the upcoming Linux 7.3 kernel cycle is going to begin treating Nova Lake S processors with their integrated graphics as stable...",
+        "published_date": "Thu, 30 Jul 2026 17:10:00 -0400",
+        "link": "https://www.phoronix.com/news/Linux-7.3-Intel-NVL-S-Stable"
+    },
+    {
+        "title": "AMD Posts Linux Patches For HDMI 2.1 Auto Low-Latency Mode \"ALLM\" & VRR",
+        "source": "Phoronix",
+        "description": "Following AMD posting AMDGPU patches for HDMI 2.1 FRL support after the HDMI 2.1 open-source support was long blocked by the HDMI Forum, as part of working toward a complete HDMI 2.1 implementation in this AMD Linux driver it was followed by HDMI 2.1 Display Stream Compression (DSC) support. Now the latest on the AMDGPU HDMI 2.1 enabling path is enabling Auto Low-Latency Mode (ALLM) as well as HDMI Variable Rate Refresh!..",
+        "published_date": "Thu, 30 Jul 2026 14:36:07 -0400",
+        "link": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM"
+    },
+    {
+        "title": "There's Finally A New Game Powered By The Unigine 2 Engine",
+        "source": "Phoronix",
+        "description": "It's been about a decade since seeing any new games released on the visually-impressive, Linux-friendly Unigine Engine. Unigine Corp has mostly been focusing on Unigine Engine usage for simulations and other professional applications, but coming as a surprise today is a new game being developed on their latest Unigine 2 engine technology...",
+        "published_date": "Thu, 30 Jul 2026 13:30:00 -0400",
+        "link": "https://www.phoronix.com/news/Unigine-Engine-3-Rideshare"
+    },
+    {
+        "title": "OPI Abstraction v0.1 Published With Aiming To Standardize DPU/IPU Ecosystems",
+        "source": "Phoronix",
+        "description": "The Linux Foundation hosted Open Programmable Infrastructure \"OPI\" announced its first coordinated release with OPI Abstraction v0.1. The work of the Open Programmable Infrastructure is hoping to standardize the data processing unit (DPU) and infrastructure processing unit (IPU) ecosystems...",
+        "published_date": "Thu, 30 Jul 2026 13:05:56 -0400",
+        "link": "https://www.phoronix.com/news/Open-Programmable-OPI-DPU-IPU"
+    },
+    {
+        "title": "Nouveau vs. NVIDIA R610 On CachyOS With The GeForce RTX 5090 Laptop GPU",
+        "source": "Phoronix",
+        "description": "With the Razer Blade 18 as the first laptop Razer's certifying for (Ubuntu) Linux use while testing it out I was predominantly using the NVIDIA R610 official driver stack. Some users were interested though in how well this laptop is working with the open-source, upstream Nouveau+NVK driver stack given Razer is marketing this high-end laptop for Linux use too. Before sending the review unit back I had run some graphics benchmarks to see how Nouveau+NVK was performing for this Razer Blade RZ09-0582 with the flagship GeForce RTX 5090 Laptop GPU.",
+        "published_date": "Thu, 30 Jul 2026 11:00:00 -0400",
+        "link": "https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux"
+    },
+    {
+        "title": "AMD Zen 6 Client HSMP Patches Point To \"Ryzen Master\" Functionality On Linux",
+        "source": "Phoronix",
+        "description": "In an interesting twist, patches this week posted to the Linux kernel mailing list are enabling AMD Zen 6 client desktop and laptop SoCs for the HSMP driver. Up to now the AMD HSMP Linux driver was just used for modern EPYC server processors while now we are seeing this HSMP driver supporting the upcoming Medusa and Olympic Ridge client platforms... Including mentions of overclocking and even noting \"Ryzen Master\" as the Windows-only software for overclocking and system management...",
+        "published_date": "Thu, 30 Jul 2026 10:12:35 -0400",
+        "link": "https://www.phoronix.com/news/AMD-Zen-6-Client-HSMP-Linux"
+    },
+    {
+        "title": "Xen 4.22 Released With AMD Zen 5 BLT Support, Improved RISC-V Virtualization",
+        "source": "Phoronix",
+        "description": "The Xen Project today released Xen 4.22 as the newest feature release of this open-source hypervisor popular for open-source virtualization in automotive systems and other embedded use-cases as well as the cloud...",
+        "published_date": "Thu, 30 Jul 2026 09:45:22 -0400",
+        "link": "https://www.phoronix.com/news/Zen-4.22-Released"
+    },
+    {
+        "title": "Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver",
+        "source": "Phoronix",
+        "description": "A Huawei engineer posted to the Mesa mailing list today over potentially upstreaming a Vulkan driver they have developed for an in-house GPU. However, at least in current form, this new in-house GPU Vulkan driver is likely dead in the water from being upstreamed into Mesa...",
+        "published_date": "Thu, 30 Jul 2026 06:18:22 -0400",
+        "link": "https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan"
+    },
+    {
+        "title": "Patches Posted To Improve Linux Media Acceleration On Intel Alchemist GPUs",
+        "source": "Phoronix",
+        "description": "The Intel Arc A-Series graphics (DG2) remains in a bit of an awkward state on Linux due to the transition period moving from the i915 kernel driver to more modern and feature capable Xe kernel driver. It's only post-Alchemist where the Intel Xe driver is officially supported and used by default while those opting for the Xe driver with the A-Series can often enjoy better performance and functionality. Except one of the caveats in using the Xe driver on Alchemist GPUs has been the lack of proper media acceleration support...",
+        "published_date": "Thu, 30 Jul 2026 06:05:35 -0400",
+        "link": "https://www.phoronix.com/news/Intel-HuC-DG2-Alchemist-Xe"
+    },
+    {
+        "title": "Five Proposals Now Being Weighed For Debian AI/LLM Usage",
+        "source": "Phoronix",
+        "description": "Last week Debian developers began considering a general resolution over AI large language model (LLM) usage within the Debian project. They are now up to weighing five different proposals for how to permit or block AI/LLM usage in the Debian space...",
+        "published_date": "Thu, 30 Jul 2026 05:47:34 -0400",
+        "link": "https://www.phoronix.com/news/Debian-GR-AI-Usage-5-Proposals"
+    },
+    {
+        "title": "Intel Media Driver & VPL GPU Runtime 2026Q2 Updates Continue Prepping For Nova Lake",
+        "source": "Phoronix",
+        "description": "Over the past few Intel VA-API Media Driver releases we have seen preparations made for Nova Lake video acceleration. That has continued today with the Intel Media Driver and Intel oneVPL GPU Runtime releases today with their new quarterly feature releases...",
+        "published_date": "Thu, 30 Jul 2026 05:38:20 -0400",
+        "link": "https://www.phoronix.com/news/Intel-Media-Driver-2026Q2"
+    },
+    {
+        "title": "COSMIC Epoch 1.5 Brings More Fixes & Improvements To System76's Desktop",
+        "source": "Phoronix",
+        "description": "The System76 and Pop!_OS developers continue quickly iterating on their Rust-based COSMIC desktop environment...",
+        "published_date": "Wed, 29 Jul 2026 20:21:55 -0400",
+        "link": "https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released"
+    },
+    {
+        "title": "DRM Format Modifiers For Old AMD GPUs Coming With Linux 7.3: Thanks Valve",
+        "source": "Phoronix",
+        "description": "Sent out today was another week's worth of features and other code changes to the AMDGPU kernel graphics driver and AMDKFD kernel compute driver. We are nearing the cut-off of new feature material for next month's Linux 7.3 kernel but there is some nice feature work in store for this week...",
+        "published_date": "Wed, 29 Jul 2026 16:47:11 -0400",
+        "link": "https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers"
+    },
+    {
+        "title": "Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming",
+        "source": "Phoronix",
+        "description": "Today's Steam client beta update brings some new game streaming enhancements for Linux gamers...",
+        "published_date": "Wed, 29 Jul 2026 15:07:07 -0400",
+        "link": "https://www.phoronix.com/news/Steam-Beta-Video-Streaming"
+    },
+    {
+        "title": "Intel Graphics Driver Support For Xe3 \"Peak Bandwidth Threshold\" Feature In Linux 7.3",
+        "source": "Phoronix",
+        "description": "Intel today sent out their latest batch of kernel graphics driver updates that are ready for staging ahead of next month's Linux 7.3 merge window...",
+        "published_date": "Wed, 29 Jul 2026 09:12:09 -0400",
+        "link": "https://www.phoronix.com/news/Intel-Linux-7.3-Peak-Bandwidth"
+    },
+    {
+        "title": "Valve Sponsors Work Bringing Open-Source RADV Driver To Windows",
+        "source": "Phoronix",
+        "description": "Valve has been sponsoring Collabora engineers with early phase, exploratory work for trying to bring the open-source Radeon Vulkan \"RADV\" driver to Microsoft Windows...",
+        "published_date": "Wed, 29 Jul 2026 06:35:22 -0400",
+        "link": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows"
+    },
+    {
+        "title": "Vibe Coded X11 YSERVER Gets Steam Working, Full-Screen Games With Cinnamon",
+        "source": "Phoronix",
+        "description": "A new software creation that debuted this summer was YSERVER as a modern X11 server written in Rust largely by AI via Claude Code. This YSERVER implementation has continued implementing more X11 protocol and other functionality to get more desktop environments and apps working surprisingly okay on this vibe coded X11 server. YSERVER 1.4 is now available as the latest in this quest...",
+        "published_date": "Wed, 29 Jul 2026 06:19:44 -0400",
+        "link": "https://www.phoronix.com/news/YSERVER-1.4"
+    },
+    {
+        "title": "FreeBSD's Kernel Still Has A Bit Of GPL Code While Its Base User-Space Is GPL-Free",
+        "source": "Phoronix",
+        "description": "A few weeks ago there was excitement in the FreeBSD camp with FreeBSD 16 set to retire the last of its GPL code from the base system. While the retiring of the dialog code proclaimed that it was the last remaining piece of GPL software in the base system for FreeBSD, it turns out now that there is some GPL code within the FreeBSD kernel...",
+        "published_date": "Wed, 29 Jul 2026 05:57:59 -0400",
+        "link": "https://www.phoronix.com/news/FreeBSD-Bits-Of-GPL-Kernel"
+    },
+    {
+        "title": "GCC To Decline Any Significant Contributions Made Via AI/LLMs - Except For Test Cases",
+        "source": "Phoronix",
+        "description": "The GCC Steering Committee announced today that they have accepted the recommended policy of the GCC AI Policy Working Group, which means no \"legally significant\" code contributions made via AI/LLM agents will be accepted into this open-source compiler...",
+        "published_date": "Wed, 29 Jul 2026 05:43:31 -0400",
+        "link": "https://www.phoronix.com/news/GCC-Declining-AI-Contributions"
+    },
+    {
+        "title": "ARCTIC Launches Its New Fan Controller That Already Has Mainline Linux Support",
+        "source": "Phoronix",
+        "description": "In over 22 years of Linux hardware reviews and testing at Phoronix, I have never been more excited for a fan controller... ARCTIC today launched their new Fan Controller and in making the product very unique for Linux users, it already has mainline Linux kernel support via a open-source driver contributed directly by ARCTIC...",
+        "published_date": "Tue, 28 Jul 2026 20:38:00 -0400",
+        "link": "https://www.phoronix.com/news/ARCTIC-Fan-Controller-Launches"
+    },
+    {
+        "title": "Starling: A New Linux Desktop Written In Swift, Own Wayland Compositor & Written With AI",
+        "source": "Phoronix",
+        "description": "There's yet another new open-source desktop option for Linux users in the era of new open-source projects largely written via AI/LLMs. Starling is this new project largely written via Claude and using the Swift programming language for the desktop while having its own Wayland compositor implemented in C. It also includes a built-in X11 server for handling X11 clients...",
+        "published_date": "Tue, 28 Jul 2026 11:50:00 -0400",
+        "link": "https://www.phoronix.com/news/Starling-Swift-Desktop"
+    },
+    {
+        "title": "CachyOS Outperforming Windows 11, Slight Advantage Over Ubuntu & Fedora On AMD Ryzen AI 9 HX 470",
+        "source": "Phoronix",
+        "description": "A recent mini PC being benchmarked at Phoronix is the BOSGAME VTA-439 that employs the new AMD Ryzen AI 9 HX 470 Gorgon Point SoC. With the BOSGAME mini PC having shipped with Microsoft Windows 11, here are some comparison benchmarks of the out-of-the-box Windows 11 performance up against Ubuntu 26.04 LTS and Fedora Workstation 44 while also tossing the rolling-release, highly-optimized Arch Linux based CachyOS into the benchmarking mix.",
+        "published_date": "Tue, 28 Jul 2026 10:04:04 -0400",
+        "link": "https://www.phoronix.com/review/amd-hx470-windows-linux"
+    },
+    {
+        "title": "AMD P-State Linux Driver Patches Can Boost 1%-Low FPS Gaming Performance By 31%",
+        "source": "Phoronix",
+        "description": "A set of patches posted today to the Linux kernel mailing list implement per-core Energy Performance Preference (EPP) boosting for recently-busy CPUs. This feature is designed to have a dramatic impact for Linux gaming and helping especially with the 1% low frame-rates improving by 31.8% on the Valve Steam Deck...",
+        "published_date": "Tue, 28 Jul 2026 06:03:00 -0400",
+        "link": "https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows"
+    },
+    {
+        "title": "KDE Developer Fixing Long-Standing Bug Over Very Long Small-File Copy Times",
+        "source": "Phoronix",
+        "description": "Since 2014 there has been a KDE bug report titled Ridiculously slow file copy (multiple small files). With the Dolphin file manager or other KIO-based KDE programs, copying many small files can be much slower than using the cp command directly or other copying programs like rsync, Finally that issue is in the process of being resolved for addressing very slow copy times when dealing with many small files on the KDE Plasma desktop...",
+        "published_date": "Tue, 28 Jul 2026 05:50:02 -0400",
+        "link": "https://www.phoronix.com/news/KDE-Ridiculous-File-Copy-Times"
+    },
+    {
+        "title": "Linux's crypto_rng Abstraction Layer Next On The Chopping Block",
+        "source": "Phoronix",
+        "description": "In addition to the deprecation and stripping down of AF_ALG, another piece of the Linux kernel crypto code steaming ahead toward removal is the crypto_rng abstraction layer...",
+        "published_date": "Tue, 28 Jul 2026 05:41:49 -0400",
+        "link": "https://www.phoronix.com/news/Linux-crypto-rng-Removal-Patch"
+    },
+    {
+        "title": "ASUS Laptop Whisper Mode Support Being Worked On For Linux",
+        "source": "Phoronix",
+        "description": "ASUS laptops support a feature called \"Whisper Mode\" that intentionally slows down the fan speed and lowers the CPU clock speed in order to keep the device running cool and quiet. The open-source ASUS Armoury Linux kernel driver is now seeing patches to properly support this Whisper Mode on Linux...",
+        "published_date": "Tue, 28 Jul 2026 05:25:26 -0400",
+        "link": "https://www.phoronix.com/news/ASUS-Laptop-Whisper-Mode-Linux"
+    },
+    {
+        "title": "AMD PMF Testing Tool Slated For Linux 7.3",
+        "source": "Phoronix",
+        "description": "Looking to be added to the Linux kernel source tree for the upcoming Linux 7.3 cycle is test_amd_pmf, a small testing application for exercising the AMD Platform Management Framework (PMF) interfaces and dumping various system data points...",
+        "published_date": "Mon, 27 Jul 2026 17:28:20 -0400",
+        "link": "https://www.phoronix.com/news/AMD-PMF-Testing-Tool-Linux-7.3"
+    }
+]

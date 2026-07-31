@@ -1,0 +1,107 @@
+[
+    {
+        "title": "[$] Reconsidering O_CREAT|O_DIRECTORY",
+        "source": "LWN.net",
+        "description": "Linux provides a system call (<a href=\"https://man7.org/linux/man-pages/man2/mkdir.2.html\"><tt>mkdir()</tt></a>)\nto create a directory, and <a href=\"https://man7.org/linux/man-pages/man2/open.2.html\">a few variants of\n<tt>open()</tt></a> that can open a directory.  There is, however, no\nsystem call in Linux that can create and open a directory in a single,\nrace-free call.   Jori Koolstra has been working on remedying that\nsituation, most recently by repurposing a set of <tt>open()</tt> flags that currently\nreturn an error.  There are, however, concerns that show just how hard it\ncan be to create user-space interfaces that do not present traps for\napplication developers.",
+        "published_date": "Thu, 30 Jul 2026 14:00:40 +0000",
+        "link": "https://lwn.net/Articles/1085617/"
+    },
+    {
+        "title": "Another batch of single-fix stable kernels",
+        "source": "LWN.net",
+        "description": "<p>Greg Kroah-Hartman has announced the release of the <a href=\"https://lwn.net/Articles/1086227/\">6.18.41</a>, <a href=\"https://lwn.net/Articles/1086228/\">6.12.100</a>, <a href=\"https://lwn.net/Articles/1086229/\">6.6.147</a>, <a href=\"https://lwn.net/Articles/1086230/\">6.1.180</a>, <a href=\"https://lwn.net/Articles/1086231/\">5.15.213</a>, and <a href=\"https://lwn.net/Articles/1086233/\">5.10.262</a> stable kernels.</p>\n\n<p>Each of these kernels contains a single fix for a <a href=\"https://git.kernel.org/pub/scm/linux/security/vulns.git/commit/?id=081d2ff9592751aa400828237f17c108e4e1f513\">use-after-free\nvulnerability</a> (<a href=\"https://www.cve.org/CVERecord?id=CVE-2026-64560\">CVE-2026-64560</a>). Users\nof these kernels are advised to upgrade.</p>\n\n<p></p>",
+        "published_date": "Thu, 30 Jul 2026 13:47:45 +0000",
+        "link": "https://lwn.net/Articles/1086226/"
+    },
+    {
+        "title": "Security updates for Thursday",
+        "source": "LWN.net",
+        "description": "Security updates have been issued by <b>AlmaLinux</b> (gstreamer1-plugins-bad-free, libtiff, libXfont2, nodejs:22, nodejs:24, and rest), <b>Debian</b> (expat and nss), <b>Fedora</b> (libssh, nginx, nginx-mod-brotli, nginx-mod-fancyindex, nginx-mod-headers-more, nginx-mod-modsecurity, nginx-mod-naxsi, nginx-mod-vts, nodejs24, perl-HTTP-Date, proftpd, squid, unbound, and wordpress), <b>Oracle</b> (c-ares, edk2, freerdp, go-fdo-server, libreswan, mariadb-connector-c, and nginx), <b>SUSE</b> (alloy, apache-commons-lang3, google-guice, maven, maven-resolver, xmvn, apache-sshd, apptainer, avahi, distribution, glib2, go1.26-openssl, go1.25-openssl, go1.24-openssl, go1.23-openssl, go1.22-openssl, go1.26, go1.25, go1.24, go1.23, go1.22, go1.21, gstreamer-plugins-bad, helm, ImageMagick, java-17-openjdk, java-25-openjdk, liboqs, oqs-provider, libssh, nginx, nm-configurator, nmap, openssl-3, openvpn, PackageKit, perl, perl-DBI, perl-HTTP-Date, perl-XML-Bare, python-msgpack-python, python-sh, python-ujson, python-urllib3, runc, samba, sssd, wget, wpa_supplicant, and xen), and <b>Ubuntu</b> (linux-nvidia, linux-nvidia-7.0 and linux-nvidia-6.17).",
+        "published_date": "Thu, 30 Jul 2026 13:12:34 +0000",
+        "link": "https://lwn.net/Articles/1086225/"
+    },
+    {
+        "title": "[$] LWN.net Weekly Edition for July 30, 2026",
+        "source": "LWN.net",
+        "description": "Inside this week's LWN.net Weekly Edition:\n        <p>\n        <ul>\n<li> <a href=\"https://lwn.net/Articles/1084315/\">Front</a>: Hazard pointers; DFSG team; Swap devices; Netkit and BPF; BPF inlined functions; Fedora GRUB; gccrs.\n            <li> <a href=\"https://lwn.net/Articles/1084317/\">Briefs</a>: RIP Dan Williams; Debian LLM resolution; Fedora 45 process; Codeberg LLM policy; GCC LLM policy; GNU Binutils 2.47; GNU C Library 2.44; Wayfire 0.11; Quotes; ...\n            <li> <a href=\"https://lwn.net/Articles/1084318/\">Announcements</a>: Newsletters, conferences, security updates, patches, and more.\n            </ul>",
+        "published_date": "Thu, 30 Jul 2026 00:01:09 +0000",
+        "link": "https://lwn.net/Articles/1084315/"
+    },
+    {
+        "title": "[$] Debugging information for inlined functions",
+        "source": "LWN.net",
+        "description": "<p>\nBPF programs use\n<a href=\"https://docs.kernel.org/bpf/btf.html\">\nBPF type format</a> (BTF) debugging information in order to\ndetermine how to interact with functions in the kernel. Specifically, tracing a\nkernel function involves finding its address in the kernel's BTF section — but\nthat doesn't work for functions that have been inlined, and therefore don't have\na single, specific address. Alan Maguire wants to add information about inlined\nfunctions to BTF in order to allow them to be traced, and led a session on that\ntopic at the 2026\n<a href=\"https://events.linuxfoundation.org/lsfmmbpf/\">\nLinux Storage, Filesystem, Memory-Management, and BPF Summit</a>.\n</p>",
+        "published_date": "Wed, 29 Jul 2026 18:05:21 +0000",
+        "link": "https://lwn.net/Articles/1083985/"
+    },
+    {
+        "title": "Three stable kernels for Wednesday fix a single regression",
+        "source": "LWN.net",
+        "description": "<p>Greg Kroah-Hartman has announced the release of the <a href=\"https://lwn.net/Articles/1086049/\">6.12.99</a>, <a href=\"https://lwn.net/Articles/1086050/\">6.6.146</a>, and <a href=\"https://lwn.net/Articles/1086051/\">6.1.179</a> stable kernels. This batch of\nstable kernels includes a single fix for a <a href=\"https://lore.kernel.org/all/CAHmU7GkfHNdA-sph9mBf-s+a=9m22KcGTq6r=78=qSf5BKBgag@mail.gmail.com/\">regression</a>\ncaused by <a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=6650527444dadc63d84aa939d14ecba4fadb2f69\">this\ncommit</a>. Users of those kernels should upgrade.</p>",
+        "published_date": "Wed, 29 Jul 2026 17:00:36 +0000",
+        "link": "https://lwn.net/Articles/1086047/"
+    },
+    {
+        "title": "[$] Fedora approves a smaller GRUB",
+        "source": "LWN.net",
+        "description": "<p>Leo Sandoval and Marta Lewandowska have put forward a <a href=\"https://fedoraproject.org/wiki/Changes/Grub2LightForConfidentialComputing#Detailed_Description\">change\nproposal</a> for Fedora&#160;45, which is expected in October, to\nprovide a separate, slimmed-down version of <a href=\"https://www.gnu.org/software/grub/\">GRUB</a> for a niche use\ncase. The new package would be in addition to the main GRUB package\nand would not replace it for the majority of Fedora users. The idea\nmet with some resistance from Fedora contributors who thought that it\nwould be better to use <a href=\"https://www.freedesktop.org/software/systemd/man/latest/systemd-boot.html\">systemd-boot</a>,\nor another modern bootloader, rather than trying to wrangle GRUB into\na suitable state for the use case. The Fedora Engineering Steering\nCouncil (FESCo), however, <a href=\"https://forge.fedoraproject.org/fesco/tickets/issues/3626#issuecomment-1058486\">voted\nto accept the change</a> on July&#160;7.</p>",
+        "published_date": "Wed, 29 Jul 2026 15:44:01 +0000",
+        "link": "https://lwn.net/Articles/1085609/"
+    },
+    {
+        "title": "GCC steering committee announces AI policy",
+        "source": "LWN.net",
+        "description": "<p>The GCC steering committee has <a href=\"https://lwn.net/ml/all/CAGWvny=KZcazorvmCU3gdT4dBcMJm6S_769Ne+aTfbO_nZ_HsQ@mail.gmail.com/\">announced</a>\nthat it has accepted <a href=\"https://forge.sourceware.org/redi/gcc-wwwdocs/commit/4d0793a6a14bf9bfe9e92ac1599840780355199d\">an\nAI contributions policy</a> recommended by the GCC AI policy working\ngroup.</p>\n\n<p>The policy, in part, states that the project will decline any\n\"<q>legally significant contributions which include LLM-generated\ncontent or are derived from LLM-generated content</q>\". It uses the <a href=\"https://www.gnu.org/prep/maintain/maintain.html#Legally-Significant\">definition</a>\nof \"legally significant\" from the GNU Project maintainer guidelines,\nwhich holds that the threshold is \"<q>around 15 lines of code and/or\ntext</q>\" to qualify as significant for copyright purposes. GCC\nmaintainers may, however, choose to accept legally significant test\ncases that are generated by an LLM.</p>\n\n<p>The policy does not forbid use of LLMs for research, analysis, bug\ndiscovery and reporting, patch review, etc. as long as the output is\nnot included in contributions. The committee says that it expects the\npolicy will evolve and will be revisited periodically.</p>\n\n<p></p>",
+        "published_date": "Wed, 29 Jul 2026 14:38:44 +0000",
+        "link": "https://lwn.net/Articles/1086041/"
+    },
+    {
+        "title": "Security updates for Wednesday",
+        "source": "LWN.net",
+        "description": "Security updates have been issued by <b>AlmaLinux</b> (dovecot, go-fdo-client, go-fdo-server, kernel, kernel-rt, and sssd), <b>Debian</b> (calibre, hplip, libraw, and samba), <b>Fedora</b> (btrbk, chromium, gpsd, kronosnet, and restic), <b>Mageia</b> (gstreamer1.0-libav and libslirp), <b>Slackware</b> (libarchive, samba, and seamonkey), <b>SUSE</b> (agama-web-ui, chromium, gimp, glib2, GraphicsMagick, ignition, ImageMagick, java-21-openjdk, libssh, libssh-config, nginx, nmap, nsd, python-urllib3, python313-CherryPy, rsyslog, samba, sssd, valkey, webkit2gtk3, and yq), and <b>Ubuntu</b> (freerdp3, linux, linux-aws, linux-aws-5.4, linux-aws-fips, linux-azure, linux-azure-5.4, linux-azure-fips, linux-bluefield, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-iot, linux-oracle, linux-oracle-5.4, linux-xilinx-zynqmp, linux-azure-fips, linux-ibm, linux-ibm-5.4, linux-kvm, and linux-raspi, linux-raspi-5.4).",
+        "published_date": "Wed, 29 Jul 2026 13:11:23 +0000",
+        "link": "https://lwn.net/Articles/1086031/"
+    },
+    {
+        "title": "[$] Progress toward compiling Linux with gccrs",
+        "source": "LWN.net",
+        "description": "<p>\nThe <a href=\"https://rust-gcc.github.io/\">\n<tt>gccrs</tt> project</a>, which is creating a Rust frontend for the GCC compiler, has\nspent the first half of 2026 focusing on compiling the Linux\nkernel. By testing the compiler against the kernel crates, the\ndevelopment team has made significant progress toward generating correct code\nfor other Rust programs. As detailed in the project's\n<a href=\"https://github.com/Rust-GCC/Reporting/tree/main/2026\">\nweekly</a> and\n<a href=\"https://rust-gcc.github.io/#status-reports\">\nmonthly</a> reports, this effort has uncovered and resolved problems\nin areas such as\nattribute handling (described in the\n<a href=\"https://rust-gcc.github.io/2026/03/10/2026-02-monthly-report.html\">\nreport for February</a>), name resolution, and resource management (both\n<a href=\"https://rust-gcc.github.io/2026/06/02/2026-05-monthly-report.html\">\ndetailed in the May report</a>). Currently, the compiler can only handle simple\nstandalone programs, but that situation could change rapidly in the coming\nmonths.\n</p>",
+        "published_date": "Tue, 28 Jul 2026 17:40:01 +0000",
+        "link": "https://lwn.net/Articles/1083202/"
+    },
+    {
+        "title": "Wayfire 0.11 released",
+        "source": "LWN.net",
+        "description": "<p><a href=\"https://wayfire.org/2026/07/24/Wayfire-0-11.html\">Version\n0.11</a> of the <a href=\"https://gitlab.freedesktop.org/wlroots/wlroots#wlroots\">wlroots</a>-based\n<a href=\"https://wayfire.org/\">Wayfire</a> Wayland compositor has been\nreleased. Notable changes include better fractional scaling,\nper-output <a href=\"https://en.wikipedia.org/wiki/ICC_profile\">ICC\nprofiles</a>, support for additional Wayland protocols, and more.</p>\n\n<p></p>",
+        "published_date": "Tue, 28 Jul 2026 14:54:01 +0000",
+        "link": "https://lwn.net/Articles/1085894/"
+    },
+    {
+        "title": "[$] A report from Debian's new DFSG team",
+        "source": "LWN.net",
+        "description": "<p>The <a href=\"https://wiki.debian.org/Teams/DFSG\">DFSG, Licensing\n&amp; New Packages Team</a> (usually shortened to \"DFSG team\") was\ncreated in October 2025 as part of the <a href=\"https://lwn.net/Articles/1043364/\">ftpmaster team split</a>. Its\njob is to review packages in the <a href=\"https://wiki.debian.org/NewQueue\">new queue</a> for compliance\nwith the <a href=\"https://wiki.debian.org/DebianFreeSoftwareGuidelines\">Debian\nFree Software Guidelines</a> (DFSG), among other things, before the\npackages are allowed to enter the <a href=\"https://www.debian.org/doc/manuals/debian-faq/ftparchives.en\">Debian\narchive</a>. The change was long in coming, and some questions\nremained after the split whether it was the right move. Andrew\nMcMillan provided an overview of the team's activities and its current\nstatus during <a href=\"https://debconf26.debconf.org/\">DebConf26</a>. While it may be\ntoo early to say with certainty, his report suggests that the new\ndivision of duties is working out well.</p>",
+        "published_date": "Tue, 28 Jul 2026 14:21:44 +0000",
+        "link": "https://lwn.net/Articles/1084499/"
+    },
+    {
+        "title": "Security updates for Tuesday",
+        "source": "LWN.net",
+        "description": "Security updates have been issued by <b>AlmaLinux</b> (grafana and libreswan), <b>Debian</b> (openjdk-11 and openjdk-17), <b>Fedora</b> (opkssh, perl-Mojolicious, and rpm), <b>Mageia</b> (libyang, memcached, nginx, packages, and sqlite3), <b>Oracle</b> (.NET 8.0, acl, buildah, compat-openssl11, compat-poppler022, dogtag-pki, git-lfs, glibc, go-fdo-client, golang, httpd:2.4, jackson-annotations, jackson-core, jackson-databind, jackson-jaxrs-providers, and jackson-modules-base, kernel, libpq, LibRaw, maven:3.8, mysql8.4, nodejs:22, nodejs:24, openssl, podman, poppler, python3.14, samba, sssd, tomcat, tomcat9, vim, and yggdrasil), <b>Red Hat</b> (gstreamer1-plugins-bad-free), <b>SUSE</b> (afterburn, alsa, apache-ivy, avahi, aws-nitro-enclaves-cli, chromium, cifs-utils, cockpit, cockpit-machines, cockpit-packages, cockpit- podman, cockpit-repos, cockpit-subscriptions, containerd, curl, docker-compose, freetype2, gawk, glib2, google-cloud-sap-agent, gpg2, gstreamer-plugins-bad, gzip, helm, ignition, ImageMagick, jackson-annotations, jackson-bom, jackson-core, jackson- databind, jackson-dataformats-binary, jackson-modules-base, jackson-annotations, jackson-core, jackson-databind, java-11-openjdk, jline3, joe, jq, kernel, libgcrypt, libknet-devel, libsoup, libxml2, mariadb-connector-c, mcphost, net-tools, nghttp2, opennlp, openssl-1_0_0, PackageKit, pam, patch, pcr-oracle, perl, perl-DBI, perl-HTTP-Date, python-aiohttp, python-cryptography, python-Pillow, python-pyasn1, python-soupsieve, python-tornado, python-tornado6, python-urllib3, python3, radvd, rust-keylime, s390-tools, shibboleth-sp, sssd, systemd, tiff, vim, and wpa_supplicant), and <b>Ubuntu</b> (FreeIPMI, glibc, linux-aws, linux-aws, linux-raspi, linux-aws-6.8, linux-aws-fips, linux-azure, linux-azure-6.8, linux-azure, linux-oracle, linux-azure-5.15, linux-azure-fde-5.15, linux-oracle-5.15, linux-azure-6.17, linux-azure-fde, linux-azure-fde-6.17, linux-azure-fde-6.8, linux-azure-fips, linux-hwe-6.8, linux-ibm, linux-ibm-6.8, linux-nvidia-tegra, linux-xilinx, linux-oracle-6.17, roc-toolkit, and samba).",
+        "published_date": "Tue, 28 Jul 2026 13:11:16 +0000",
+        "link": "https://lwn.net/Articles/1085855/"
+    },
+    {
+        "title": "[$] Hazard pointers for the kernel",
+        "source": "LWN.net",
+        "description": "The kernel's read-copy-update (RCU) subsystem ensures that data will not be\ndeleted until it is known that there are no threads holding references to\nit.  RCU works well and is widely used throughout the kernel, but it can\nincrease memory use and add significant delays before unused kernel objects\nare cleaned up.  <a href=\"https://en.wikipedia.org/wiki/Hazard_pointer\">Hazard pointers</a> are\nan alternative approach to lockless data updates that offers better\nperformance, for some situations at least.  The kernel community is\ncurrently considering <a href=\"https://lwn.net/ml/all/23e34c2e-67fd-45da-b130-e70a131a59ea@paulmck-laptop\">a\nhazard-pointer implementation</a> by Mathieu Desnoyers and Paul McKenney.",
+        "published_date": "Mon, 27 Jul 2026 16:51:58 +0000",
+        "link": "https://lwn.net/Articles/1084015/"
+    },
+    {
+        "title": "GNU Binutils 2.47 released",
+        "source": "LWN.net",
+        "description": "<a href=\"https://inbox.sourceware.org/binutils/87o6fty5pz.fsf@redhat.com/\">Version\n2.47</a> of <a href=\"https://www.gnu.org/software/binutils/\">GNU\nBinutils</a> has been released. In addition to the usual bug fixes\nthere are some notable new features in this release including added\nsupport for a number of RISC-V standard extensions, a command-line\noption (<tt>-M&#160;annotate</tt>) which displays the symbol for\nundefined instructions for AArch64, and more. The 32-bit s390 target\nhas been deprecated with this release.</p>\n\n<p></p>",
+        "published_date": "Mon, 27 Jul 2026 15:46:28 +0000",
+        "link": "https://lwn.net/Articles/1085566/"
+    }
+]

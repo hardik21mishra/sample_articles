@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+        "source": "Cloudflare Blog",
+        "description": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits higher for everyone.",
+        "published_date": "Thu, 30 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/"
+    },
+    {
+        "title": "Post-quantum authentication to origins is now supported",
+        "source": "Cloudflare Blog",
+        "description": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare products.",
+        "published_date": "Wed, 29 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/"
+    },
+    {
+        "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
+        "source": "Cloudflare Blog",
+        "description": "Cloudflare Radar tracked Internet disruptions driven by natural disasters, government-mandated shutdowns, and DNSSEC key rollovers over the last quarter. This post analyzes traffic telemetry to explain how these events impacted global connectivity.",
+        "published_date": "Tue, 28 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"
+    },
+    {
+        "title": "We’re open-sourcing our privacy proxy CLI",
+        "source": "Cloudflare Blog",
+        "description": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
+        "published_date": "Mon, 27 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/"
+    },
+    {
+        "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+        "source": "Cloudflare Blog",
+        "description": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection.",
+        "published_date": "Fri, 24 Jul 2026 17:25:28 GMT",
+        "link": "https://blog.cloudflare.com/bgp-origin-attribute/"
+    },
+    {
+        "title": "Introducing Cache Response Rules",
+        "source": "Cloudflare Blog",
+        "description": "Perhaps you’ve seen something that should sail out of cache get dragged back to the origin by a stray Set-Cookie or Cache-Control, headers that can be difficult to change on the origin itself. Cache Response Rules is the fix, applied at the right time.",
+        "published_date": "Thu, 23 Jul 2026 18:40:38 GMT",
+        "link": "https://blog.cloudflare.com/introducing-cache-response-rules/"
+    },
+    {
+        "title": "How the 2026 World Cup affected Internet traffic",
+        "source": "Cloudflare Blog",
+        "description": "We analyzed global HTTP traffic to explore how kickoff times, streaming habits, and hydration breaks reshaped online activity worldwide. From late-night traffic surges to halftime browsing spikes, here is how the world connected during the global tournament.",
+        "published_date": "Tue, 21 Jul 2026 12:59:40 GMT",
+        "link": "https://blog.cloudflare.com/2026-world-cup-internet-traffic/"
+    },
+    {
+        "title": "Cloudflare Internal DNS is now generally available",
+        "source": "Cloudflare Blog",
+        "description": "Cloudflare Internal DNS brings authoritative and recursive DNS for private networks to the same global network and control plane that runs Cloudflare's Zero Trust, networking, and public DNS.",
+        "published_date": "Mon, 20 Jul 2026 20:59:31 GMT",
+        "link": "https://blog.cloudflare.com/internal-dns/"
+    },
+    {
+        "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+        "source": "Cloudflare Blog",
+        "description": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but customers should still update immediately to a patched release",
+        "published_date": "Fri, 17 Jul 2026 21:30:43 GMT",
+        "link": "https://blog.cloudflare.com/wordpress-vulnerabilities/"
+    },
+    {
+        "title": "A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed",
+        "source": "Cloudflare Blog",
+        "description": "When a failed DNSSEC key rollover took down the .al TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals directly in the response that DNSSEC validation was bypassed.",
+        "published_date": "Tue, 14 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/dnssec-nta-ede-33/"
+    },
+    {
+        "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+        "source": "Cloudflare Blog",
+        "description": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it identifies advanced automation with higher precision — while reducing friction for legitimate users.",
+        "published_date": "Mon, 13 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/introducing-precursor/"
+    },
+    {
+        "title": "Improving Smart Tiered Cache for Public Cloud Regions",
+        "source": "Cloudflare Blog",
+        "description": "Smart Tiered Cache allows for precise upper tier selection for origins hosted on AWS, GCP, Azure, and Oracle Cloud with customer-provided cloud region hints.",
+        "published_date": "Fri, 10 Jul 2026 12:00:00 GMT",
+        "link": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/"
+    },
+    {
+        "title": "Why we cannot wait for better post-quantum signature algorithms",
+        "source": "Cloudflare Blog",
+        "description": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-DSA for now — the best currently available.",
+        "published_date": "Thu, 09 Jul 2026 14:00:00 GMT",
+        "link": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/"
+    },
+    {
+        "title": "Introducing Meerkat: an experiment in global consensus",
+        "source": "Cloudflare Blog",
+        "description": "Cloudflare Research is building a global consensus service called Meerkat that uses a new consensus algorithm called QuePaxa. We plan to use Meerkat to build a strongly consistent, fault-tolerant key-value store, and other applications.",
+        "published_date": "Wed, 08 Jul 2026 12:00:00 GMT",
+        "link": "https://blog.cloudflare.com/meerkat-introduction/"
+    },
+    {
+        "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+        "source": "Cloudflare Blog",
+        "description": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this framework: democratizing security, leadership accountability, and radical transparency.",
+        "published_date": "Tue, 07 Jul 2026 12:00:00 GMT",
+        "link": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/"
+    },
+    {
+        "title": "Your Worker can now have its own cache in front of it",
+        "source": "Cloudflare Blog",
+        "description": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
+        "published_date": "Mon, 06 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/workers-cache/"
+    },
+    {
+        "title": "Unmasking the crawls with Attribution Business Insights",
+        "source": "Cloudflare Blog",
+        "description": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
+        "published_date": "Wed, 01 Jul 2026 06:00:00 GMT",
+        "link": "https://blog.cloudflare.com/attribution-business-insights/"
+    },
+    {
+        "title": "Making AI search smarter",
+        "source": "Cloudflare Blog",
+        "description": "Search is how we find nearly everything on the web — creators, merchants, answers. AI is rewriting the rules, leaving creators caught between staying discoverable in an agentic era and getting paid for their work. Today we're launching two initiatives to help.",
+        "published_date": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/making-ai-search-smarter/"
+    },
+    {
+        "title": "Your site, your rules: new AI traffic options for all customers",
+        "source": "Cloudflare Blog",
+        "description": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Training bots, alongside the new ability to protect ad-monetized pages.",
+        "published_date": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
+    },
+    {
+        "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+        "source": "Cloudflare Blog",
+        "description": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, with no payments stack of your own to build.",
+        "published_date": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/monetization-gateway/"
+    }
+]

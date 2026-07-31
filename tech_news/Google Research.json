@@ -1,0 +1,702 @@
+[
+    {
+        "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Thu, 30 Jul 2026 20:36:36 +0000",
+        "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/"
+    },
+    {
+        "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Wed, 22 Jul 2026 21:32:00 +0000",
+        "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/"
+    },
+    {
+        "title": "Towards a quantum computer that learns from its errors",
+        "source": "Google Research",
+        "description": "Machine Intelligence",
+        "published_date": "Wed, 22 Jul 2026 18:40:21 +0000",
+        "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/"
+    },
+    {
+        "title": "Towards demystifying the creativity of diffusion models",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 15 Jul 2026 18:06:00 +0000",
+        "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/"
+    },
+    {
+        "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 09 Jul 2026 09:56:00 +0000",
+        "link": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/"
+    },
+    {
+        "title": "The power of collaboration: How we can reduce traffic congestion",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 07 Jul 2026 16:42:08 +0000",
+        "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/"
+    },
+    {
+        "title": "Expanding our Heat Resilience data to 50+ global cities",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Tue, 30 Jun 2026 17:03:00 +0000",
+        "link": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/"
+    },
+    {
+        "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+        "source": "Google Research",
+        "description": "Data Management",
+        "published_date": "Tue, 30 Jun 2026 10:26:00 +0000",
+        "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
+    },
+    {
+        "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+        "source": "Google Research",
+        "description": "Machine Intelligence",
+        "published_date": "Fri, 26 Jun 2026 18:30:00 +0000",
+        "link": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/"
+    },
+    {
+        "title": "Optimizing cloud economics with linear elastic caching",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Thu, 25 Jun 2026 10:03:00 +0000",
+        "link": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/"
+    },
+    {
+        "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 24 Jun 2026 16:51:00 +0000",
+        "link": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/"
+    },
+    {
+        "title": "From pixels to planning: Earth AI for nature restoration",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Tue, 16 Jun 2026 17:30:00 +0000",
+        "link": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/"
+    },
+    {
+        "title": "Research into how AI can help users understand skin conditions",
+        "source": "Google Research",
+        "description": "Health & Bioscience",
+        "published_date": "Fri, 12 Jun 2026 17:52:00 +0000",
+        "link": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/"
+    },
+    {
+        "title": "A low-carbon computing platform from your retired phones",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Fri, 12 Jun 2026 17:37:00 +0000",
+        "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"
+    },
+    {
+        "title": "New framework for auditing machine unlearning",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 10 Jun 2026 17:34:55 +0000",
+        "link": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/"
+    },
+    {
+        "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+        "source": "Google Research",
+        "description": "Data Management",
+        "published_date": "Fri, 05 Jun 2026 11:26:00 +0000",
+        "link": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
+    },
+    {
+        "title": "Towards passive heart health monitoring via smartphone camera",
+        "source": "Google Research",
+        "description": "Health & Bioscience",
+        "published_date": "Thu, 04 Jun 2026 19:47:00 +0000",
+        "link": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+    },
+    {
+        "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Wed, 03 Jun 2026 18:37:00 +0000",
+        "link": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
+    },
+    {
+        "title": "A New Era of Discovery: Google Research at I/O 2026",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Thu, 28 May 2026 20:58:00 +0000",
+        "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+    },
+    {
+        "title": "Private analytics via zero-trust aggregation",
+        "source": "Google Research",
+        "description": "Security, Privacy and Abuse Prevention",
+        "published_date": "Wed, 27 May 2026 16:56:00 +0000",
+        "link": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+    },
+    {
+        "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Tue, 19 May 2026 17:52:00 +0000",
+        "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+    },
+    {
+        "title": "Catalyzing scientific impact through global partnerships and open resources",
+        "source": "Google Research",
+        "description": "Data Mining & Modeling",
+        "published_date": "Fri, 01 May 2026 16:37:00 +0000",
+        "link": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+    },
+    {
+        "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+        "source": "Google Research",
+        "description": "Data Mining & Modeling",
+        "published_date": "Wed, 29 Apr 2026 21:07:00 +0000",
+        "link": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+    },
+    {
+        "title": "It's all about the angle: Your photos, re-composed",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 22 Apr 2026 17:00:00 +0000",
+        "link": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+    },
+    {
+        "title": "ReasoningBank: Enabling agents to learn from experience",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 21 Apr 2026 16:42:22 +0000",
+        "link": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+    },
+    {
+        "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 16 Apr 2026 14:41:00 +0000",
+        "link": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+    },
+    {
+        "title": "AI-generated synthetic neurons speed up brain mapping",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Thu, 16 Apr 2026 12:18:00 +0000",
+        "link": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+    },
+    {
+        "title": "Towards developing future-ready skills with generative AI",
+        "source": "Google Research",
+        "description": "Education Innovation",
+        "published_date": "Mon, 13 Apr 2026 18:15:59 +0000",
+        "link": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+    },
+    {
+        "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 09 Apr 2026 11:22:00 +0000",
+        "link": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/"
+    },
+    {
+        "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 08 Apr 2026 20:01:33 +0000",
+        "link": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
+    },
+    {
+        "title": "Evaluating alignment of behavioral dispositions in LLMs",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Fri, 03 Apr 2026 08:00:00 +0000",
+        "link": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
+    },
+    {
+        "title": "Building better AI benchmarks: How many raters are enough?",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 31 Mar 2026 16:16:00 +0000",
+        "link": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
+    },
+    {
+        "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 31 Mar 2026 02:03:00 +0000",
+        "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"
+    },
+    {
+        "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
+        "source": "Google Research",
+        "description": "Human-Computer Interaction and Visualization",
+        "published_date": "Wed, 25 Mar 2026 09:14:00 +0000",
+        "link": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/"
+    },
+    {
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 24 Mar 2026 19:54:00 +0000",
+        "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
+    },
+    {
+        "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 24 Mar 2026 17:42:00 +0000",
+        "link": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/"
+    },
+    {
+        "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
+        "source": "Google Research",
+        "description": "Health & Bioscience",
+        "published_date": "Tue, 17 Mar 2026 19:47:00 +0000",
+        "link": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/"
+    },
+    {
+        "title": "Improving breast cancer screening workflows with machine learning",
+        "source": "Google Research",
+        "description": "Health & Bioscience",
+        "published_date": "Tue, 17 Mar 2026 16:57:00 +0000",
+        "link": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
+    },
+    {
+        "title": "Testing LLMs on superconductivity research questions",
+        "source": "Google Research",
+        "description": "Education Innovation",
+        "published_date": "Mon, 16 Mar 2026 17:31:00 +0000",
+        "link": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
+    },
+    {
+        "title": "Protecting cities with AI-driven flash flood forecasting",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Thu, 12 Mar 2026 13:03:15 +0000",
+        "link": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
+    },
+    {
+        "title": "Introducing Groundsource: Turning news reports into data with Gemini",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Thu, 12 Mar 2026 10:42:00 +0000",
+        "link": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
+    },
+    {
+        "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 11 Mar 2026 16:58:00 +0000",
+        "link": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/"
+    },
+    {
+        "title": "WAXAL: A large-scale open resource for African language speech technology",
+        "source": "Google Research",
+        "description": "Natural Language Processing",
+        "published_date": "Fri, 06 Mar 2026 20:06:00 +0000",
+        "link": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/"
+    },
+    {
+        "title": "Where wild things roam: Identifying wildlife with SpeciesNet",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Fri, 06 Mar 2026 17:59:38 +0000",
+        "link": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/"
+    },
+    {
+        "title": "Teaching LLMs to reason like Bayesians",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 04 Mar 2026 20:29:00 +0000",
+        "link": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+    },
+    {
+        "title": "Teaching AI to read a map",
+        "source": "Google Research",
+        "description": "Machine Perception",
+        "published_date": "Tue, 17 Feb 2026 21:37:00 +0000",
+        "link": "https://research.google/blog/teaching-ai-to-read-a-map/"
+    },
+    {
+        "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 11 Feb 2026 10:34:00 +0000",
+        "link": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+    },
+    {
+        "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+        "source": "Google Research",
+        "description": "Human-Computer Interaction and Visualization",
+        "published_date": "Tue, 10 Feb 2026 18:30:00 +0000",
+        "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+    },
+    {
+        "title": "How AI trained on birds is surfacing underwater mysteries",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Mon, 09 Feb 2026 18:38:00 +0000",
+        "link": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+    },
+    {
+        "title": "How AI tools can redefine universal design to increase accessibility",
+        "source": "Google Research",
+        "description": "Education Innovation",
+        "published_date": "Thu, 05 Feb 2026 08:28:00 +0000",
+        "link": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/"
+    },
+    {
+        "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 04 Feb 2026 15:14:00 +0000",
+        "link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/"
+    },
+    {
+        "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 03 Feb 2026 18:15:01 +0000",
+        "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/"
+    },
+    {
+        "title": "Towards a science of scaling agent systems: When and why agent systems work",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 28 Jan 2026 11:00:00 +0000",
+        "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+    },
+    {
+        "title": "ATLAS: Practical scaling laws for multilingual models",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 27 Jan 2026 18:58:00 +0000",
+        "link": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/"
+    },
+    {
+        "title": "Introducing GIST: The next stage in smart sampling",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Fri, 23 Jan 2026 17:46:00 +0000",
+        "link": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/"
+    },
+    {
+        "title": "Small models, big results: Achieving superior intent extraction through decomposition",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 22 Jan 2026 16:56:44 +0000",
+        "link": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/"
+    },
+    {
+        "title": "Unlocking health insights: Estimating advanced walking metrics with smartwatches",
+        "source": "Google Research",
+        "description": "Health & Bioscience",
+        "published_date": "Thu, 15 Jan 2026 22:56:00 +0000",
+        "link": "https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/"
+    },
+    {
+        "title": "Hard-braking events as indicators of road segment crash risk",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 13 Jan 2026 22:44:00 +0000",
+        "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/"
+    },
+    {
+        "title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 13 Jan 2026 20:57:16 +0000",
+        "link": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/"
+    },
+    {
+        "title": "Dynamic surface codes open new avenues for quantum error correction",
+        "source": "Google Research",
+        "description": "Quantum",
+        "published_date": "Tue, 13 Jan 2026 17:32:00 +0000",
+        "link": "https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/"
+    },
+    {
+        "title": "NeuralGCM harnesses AI to better simulate long-range global precipitation",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Mon, 12 Jan 2026 17:52:00 +0000",
+        "link": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/"
+    },
+    {
+        "title": "Google Research 2025: Bolder breakthroughs, bigger impact",
+        "source": "Google Research",
+        "description": "Year in Review",
+        "published_date": "Thu, 18 Dec 2025 23:29:00 +0000",
+        "link": "https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/"
+    },
+    {
+        "title": "Gemini-backed Paper Assistant Tool provides automated feedback for theoretical computer scientists at STOC 2026",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Mon, 15 Dec 2025 17:37:00 +0000",
+        "link": "https://research.google/blog/gemini-provides-automated-feedback-for-theoretical-computer-scientists-at-stoc-2026/"
+    },
+    {
+        "title": "Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa",
+        "source": "Google Research",
+        "description": "Conferences & Events",
+        "published_date": "Fri, 12 Dec 2025 10:42:00 +0000",
+        "link": "https://research.google/blog/spotlight-on-innovation-google-sponsored-data-science-for-health-ideathon-across-africa/"
+    },
+    {
+        "title": "A differentially private framework for gaining insights into AI chatbot use",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 10 Dec 2025 21:59:41 +0000",
+        "link": "https://research.google/blog/a-differentially-private-framework-for-gaining-insights-into-ai-chatbot-use/"
+    },
+    {
+        "title": "Titans + MIRAS: Helping AI have long-term memory",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 04 Dec 2025 19:26:09 +0000",
+        "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/"
+    },
+    {
+        "title": "From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence",
+        "source": "Google Research",
+        "description": "Machine Intelligence",
+        "published_date": "Wed, 03 Dec 2025 22:47:00 +0000",
+        "link": "https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/"
+    },
+    {
+        "title": "Reducing EV range anxiety: How a simple AI model predicts port availability",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Fri, 21 Nov 2025 16:27:00 +0000",
+        "link": "https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/"
+    },
+    {
+        "title": "Real-time speech-to-speech translation",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 19 Nov 2025 09:59:00 +0000",
+        "link": "https://research.google/blog/real-time-speech-to-speech-translation/"
+    },
+    {
+        "title": "Generative UI: A rich, custom, visual interactive user experience for any prompt",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 18 Nov 2025 16:00:00 +0000",
+        "link": "https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/"
+    },
+    {
+        "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Thu, 13 Nov 2025 19:04:00 +0000",
+        "link": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/"
+    },
+    {
+        "title": "A new quantum toolkit for optimization",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Thu, 13 Nov 2025 07:27:00 +0000",
+        "link": "https://research.google/blog/a-new-quantum-toolkit-for-optimization/"
+    },
+    {
+        "title": "Differentially private machine learning at scale with JAX-Privacy",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 12 Nov 2025 15:32:00 +0000",
+        "link": "https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/"
+    },
+    {
+        "title": "Introducing Nested Learning: A new ML paradigm for continual learning",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Fri, 07 Nov 2025 17:37:22 +0000",
+        "link": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+    },
+    {
+        "title": "DS-STAR: A state-of-the-art versatile data science agent",
+        "source": "Google Research",
+        "description": "Data Mining & Modeling",
+        "published_date": "Thu, 06 Nov 2025 17:50:36 +0000",
+        "link": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/"
+    },
+    {
+        "title": "Forecasting the future of forests with AI: From counting losses to predicting risk",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Wed, 05 Nov 2025 15:41:00 +0000",
+        "link": "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/"
+    },
+    {
+        "title": "Exploring a space-based, scalable AI infrastructure system design",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Tue, 04 Nov 2025 16:58:00 +0000",
+        "link": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/"
+    },
+    {
+        "title": "Accelerating the magic cycle of research breakthroughs and real-world applications",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Fri, 31 Oct 2025 07:40:00 +0000",
+        "link": "https://research.google/blog/accelerating-the-magic-cycle-of-research-breakthroughs-and-real-world-applications/"
+    },
+    {
+        "title": "Toward provably private insights into AI use",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 30 Oct 2025 10:56:00 +0000",
+        "link": "https://research.google/blog/toward-provably-private-insights-into-ai-use/"
+    },
+    {
+        "title": "StreetReaderAI: Towards making street view accessible via context-aware multimodal AI",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 29 Oct 2025 16:38:00 +0000",
+        "link": "https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/"
+    },
+    {
+        "title": "How we are building the personal health coach",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Mon, 27 Oct 2025 22:36:00 +0000",
+        "link": "https://research.google/blog/how-we-are-building-the-personal-health-coach/"
+    },
+    {
+        "title": "Google Earth AI: Unlocking geospatial insights with foundation models and cross-modal reasoning",
+        "source": "Google Research",
+        "description": "Climate & Sustainability",
+        "published_date": "Thu, 23 Oct 2025 08:08:00 +0000",
+        "link": "https://research.google/blog/google-earth-ai-unlocking-geospatial-insights-with-foundation-models-and-cross-modal-reasoning/"
+    },
+    {
+        "title": "A verifiable quantum advantage",
+        "source": "Google Research",
+        "description": "Quantum",
+        "published_date": "Wed, 22 Oct 2025 15:07:00 +0000",
+        "link": "https://research.google/blog/a-verifiable-quantum-advantage/"
+    },
+    {
+        "title": "A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Mon, 20 Oct 2025 21:54:00 +0000",
+        "link": "https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/"
+    },
+    {
+        "title": "Teaching Gemini to spot exploding stars with just a few examples",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Mon, 20 Oct 2025 09:19:00 +0000",
+        "link": "https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/"
+    },
+    {
+        "title": "Solving virtual machine puzzles: How AI is optimizing cloud computing",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Fri, 17 Oct 2025 17:56:35 +0000",
+        "link": "https://research.google/blog/solving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing/"
+    },
+    {
+        "title": "Using AI to identify genetic variants in tumors with DeepSomatic",
+        "source": "Google Research",
+        "description": "General Science",
+        "published_date": "Thu, 16 Oct 2025 16:33:00 +0000",
+        "link": "https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/"
+    },
+    {
+        "title": "Coral NPU: A full-stack platform for Edge AI",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 15 Oct 2025 13:07:00 +0000",
+        "link": "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/"
+    },
+    {
+        "title": "XR Blocks: Accelerating AI + XR innovation",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 09 Oct 2025 09:56:00 +0000",
+        "link": "https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/"
+    },
+    {
+        "title": "​​Speech-to-Retrieval (S2R): A new approach to voice search",
+        "source": "Google Research",
+        "description": "Machine Intelligence",
+        "published_date": "Tue, 07 Oct 2025 15:22:00 +0000",
+        "link": "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/"
+    },
+    {
+        "title": "A collaborative approach to image generation",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 02 Oct 2025 17:04:05 +0000",
+        "link": "https://research.google/blog/a-collaborative-approach-to-image-generation/"
+    },
+    {
+        "title": "Introducing interactive on-device segmentation in Snapseed",
+        "source": "Google Research",
+        "description": "Human-Computer Interaction and Visualization",
+        "published_date": "Wed, 01 Oct 2025 17:05:30 +0000",
+        "link": "https://research.google/blog/introducing-interactive-on-device-segmentation-in-snapseed/"
+    },
+    {
+        "title": "AI as a research partner: Advancing theoretical computer science with AlphaEvolve",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Tue, 30 Sep 2025 16:57:00 +0000",
+        "link": "https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/"
+    },
+    {
+        "title": "The anatomy of a personal health agent",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 30 Sep 2025 14:41:00 +0000",
+        "link": "https://research.google/blog/the-anatomy-of-a-personal-health-agent/"
+    },
+    {
+        "title": "Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Thu, 25 Sep 2025 10:33:00 +0000",
+        "link": "https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/"
+    },
+    {
+        "title": "AfriMed-QA: Benchmarking large language models for global health",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Wed, 24 Sep 2025 19:11:00 +0000",
+        "link": "https://research.google/blog/afrimed-qa-benchmarking-large-language-models-for-global-health/"
+    },
+    {
+        "title": "Time series foundation models can be few-shot learners",
+        "source": "Google Research",
+        "description": "Generative AI",
+        "published_date": "Tue, 23 Sep 2025 18:00:43 +0000",
+        "link": "https://research.google/blog/time-series-foundation-models-can-be-few-shot-learners/"
+    },
+    {
+        "title": "Deep researcher with test-time diffusion",
+        "source": "Google Research",
+        "description": "Machine Intelligence",
+        "published_date": "Fri, 19 Sep 2025 20:43:00 +0000",
+        "link": "https://research.google/blog/deep-researcher-with-test-time-diffusion/"
+    },
+    {
+        "title": "Sensible Agent: A framework for unobtrusive interaction with proactive AR agents",
+        "source": "Google Research",
+        "description": "Human-Computer Interaction and Visualization",
+        "published_date": "Thu, 18 Sep 2025 20:10:00 +0000",
+        "link": "https://research.google/blog/sensible-agent-a-framework-for-unobtrusive-interaction-with-proactive-ar-agents/"
+    },
+    {
+        "title": "Making LLMs more accurate by using all of their layers",
+        "source": "Google Research",
+        "description": "Algorithms & Theory",
+        "published_date": "Wed, 17 Sep 2025 17:00:00 +0000",
+        "link": "https://research.google/blog/making-llms-more-accurate-by-using-all-of-their-layers/"
+    }
+]

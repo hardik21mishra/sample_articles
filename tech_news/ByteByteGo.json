@@ -1,0 +1,142 @@
+[
+    {
+        "title": "A Detailed Guide to Idempotency, Delivery Semantics, and Deduplication",
+        "source": "ByteByteGo",
+        "description": "What happens when a service sends a request to charge a customer, but the request times out with no response?",
+        "published_date": "Thu, 30 Jul 2026 15:30:29 GMT",
+        "link": "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery"
+    },
+    {
+        "title": "How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference",
+        "source": "ByteByteGo",
+        "description": "To understand what techniques are adopted in frontier labs to make AI applications more efficient, we met with the OpenAI engineers who developed and shipped various efficiency techniques into the systems behind Codex and ChatGPT Work.",
+        "published_date": "Wed, 29 Jul 2026 15:18:25 GMT",
+        "link": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop"
+    },
+    {
+        "title": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways",
+        "source": "ByteByteGo",
+        "description": "In this article, we will walk through their differing solutions and try to make sense of their choices and understand the pattern behind them.",
+        "published_date": "Tue, 28 Jul 2026 15:30:42 GMT",
+        "link": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats"
+    },
+    {
+        "title": "How NVIDIA Builds Open Models for the Age of AI",
+        "source": "ByteByteGo",
+        "description": "Bryan Catanzaro, VP of Applied Deep Learning Research at NVIDIA, walked us through how his team builds the company&#8217;s open models, the reasoning behind their architecture, and why NVIDIA open-sources so much of it.",
+        "published_date": "Mon, 27 Jul 2026 15:01:46 GMT",
+        "link": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for"
+    },
+    {
+        "title": "A Beginner’s Guide to Clocks, Causality, and Ordering in Distributed Systems",
+        "source": "ByteByteGo",
+        "description": "Why does something as simple as reading the time become a hard problem for distributed systems?",
+        "published_date": "Thu, 23 Jul 2026 15:30:41 GMT",
+        "link": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality"
+    },
+    {
+        "title": "Best Practices for Building AI Agents That Work in Production",
+        "source": "ByteByteGo",
+        "description": "In this article, we try to explore the collective thinking into a smaller set of practices and explain the reasoning behind each one, rather than asking anyone to memorize a numbered list.",
+        "published_date": "Wed, 22 Jul 2026 15:30:44 GMT",
+        "link": "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents"
+    },
+    {
+        "title": "Inside Roblox’s Bet on World Models",
+        "source": "ByteByteGo",
+        "description": "We sat down with Anupam Singh, senior vice president of engineering at Roblox, to hear from him about the world model that Roblox is using to make its multiplayer games look photorealistic, the key insights that have come from taking that approach, and the next big thing that the Roblox team is focusing on.",
+        "published_date": "Tue, 21 Jul 2026 14:30:48 GMT",
+        "link": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models"
+    },
+    {
+        "title": "MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other",
+        "source": "ByteByteGo",
+        "description": "Agents are capable on their own. Combined with tools and other agents, their capabilities compound.",
+        "published_date": "Sat, 18 Jul 2026 16:46:13 GMT",
+        "link": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually"
+    },
+    {
+        "title": "A Guide to Multi-Tenancy: Benefits and Challenges",
+        "source": "ByteByteGo",
+        "description": "In this article, we will understand multi-tenant architecture from the basics, along with its various benefits and challenges.",
+        "published_date": "Thu, 16 Jul 2026 16:37:08 GMT",
+        "link": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits"
+    },
+    {
+        "title": "AI Customer Support at Scale: The Travel Industry’s $Billion Bet",
+        "source": "ByteByteGo",
+        "description": "In this article, we will look more closely at the different solutions by following the support pipeline from first principles, show why a tail of cases resists automation regardless of model quality, and use these three approaches to understand how these can be handled.",
+        "published_date": "Wed, 15 Jul 2026 15:30:53 GMT",
+        "link": "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the"
+    },
+    {
+        "title": "How LLMs Learn to Be Helpful (RLHF vs DPO)",
+        "source": "ByteByteGo",
+        "description": "In this article, we will look at how that learning actually happens, starting with why instruction-following alone falls short, then walking through the two main methods for teaching preferences (RLHF and DPO).",
+        "published_date": "Tue, 14 Jul 2026 15:30:53 GMT",
+        "link": "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf"
+    },
+    {
+        "title": "How Microsoft Ships AI Agents at Enterprise Scale",
+        "source": "ByteByteGo",
+        "description": "To understand what it actually takes to ship agents at that scale, we spoke with Marco Casalaina, VP of Products for Microsoft Core AI.",
+        "published_date": "Mon, 13 Jul 2026 15:02:11 GMT",
+        "link": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at"
+    },
+    {
+        "title": "EP221: How Docker Works Under the Hood",
+        "source": "ByteByteGo",
+        "description": "A Docker container starts with a single command, but that command has to be turned into a running Linux process. Here is what actually happens.",
+        "published_date": "Sat, 11 Jul 2026 15:30:14 GMT",
+        "link": "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the"
+    },
+    {
+        "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
+        "source": "ByteByteGo",
+        "description": "Our 7th cohort of Becoming an AI Engineer starts tomorrow, Saturday, July 11. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.",
+        "published_date": "Fri, 10 Jul 2026 15:32:04 GMT",
+        "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-23d"
+    },
+    {
+        "title": "Streaming vs Batch: Two Philosophies of Data Processing",
+        "source": "ByteByteGo",
+        "description": "When is the data complete enough to be moved to the compute stage?",
+        "published_date": "Thu, 09 Jul 2026 15:31:10 GMT",
+        "link": "https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies"
+    },
+    {
+        "title": "The Agent Loop: How AI Goes From Answering Questions to Doing Things",
+        "source": "ByteByteGo",
+        "description": "In this article, we will walk through that progression. We will also look at how an agent is structured, what choices the model makes on every turn, what scaffolding holds it together, and when an agent is actually the right pattern to reach for.",
+        "published_date": "Wed, 08 Jul 2026 15:30:07 GMT",
+        "link": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering"
+    },
+    {
+        "title": "ChatGPT vs Gemini vs Claude: How They Differ",
+        "source": "ByteByteGo",
+        "description": "In this article, we will look at the various architectural forks the teams building these models encountered and the decisions they took.",
+        "published_date": "Tue, 07 Jul 2026 15:31:10 GMT",
+        "link": "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they"
+    },
+    {
+        "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 7",
+        "source": "ByteByteGo",
+        "description": "Our 7th cohort of Becoming an AI Engineer starts in less than a week. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.",
+        "published_date": "Mon, 06 Jul 2026 15:31:49 GMT",
+        "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-72b"
+    },
+    {
+        "title": "Proof of Human: How to Verify a Person Is Real and Unique",
+        "source": "ByteByteGo",
+        "description": "For this article we spoke with the team behind World, including Tiago Sada and Lily Gordon at Tools for Humanity, on how they try to solve this problem.",
+        "published_date": "Sat, 04 Jul 2026 15:30:16 GMT",
+        "link": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person"
+    },
+    {
+        "title": "Multi-Region Architecture: Going Global Without Going Broke",
+        "source": "ByteByteGo",
+        "description": "When an application grows geographically, it is logical to start serving it from a second region to improve latency and availability.",
+        "published_date": "Thu, 02 Jul 2026 15:30:30 GMT",
+        "link": "https://blog.bytebytego.com/p/multi-region-architecture-going-global"
+    }
+]

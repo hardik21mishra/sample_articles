@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+        "source": "Cloudflare Workers",
+        "description": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits higher for everyone.",
+        "published_date": "Thu, 30 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/"
+    },
+    {
+        "title": "Your Worker can now have its own cache in front of it",
+        "source": "Cloudflare Workers",
+        "description": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
+        "published_date": "Mon, 06 Jul 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/workers-cache/"
+    },
+    {
+        "title": "How we built saga rollbacks for Cloudflare Workflows",
+        "source": "Cloudflare Workers",
+        "description": "Cloudflare Workflows, our durable execution engine for multi-step applications, now supports saga-style rollbacks, allowing developers to specify a compensating action for each step.do().",
+        "published_date": "Thu, 25 Jun 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/rollbacks-for-workflows/"
+    },
+    {
+        "title": "How we found a bug in the hyper HTTP library",
+        "source": "Cloudflare Workers",
+        "description": "By rearchitecting the Images binding, we accidentally uncovered a bug that existed in the open-source hyper library across multiple major versions.",
+        "published_date": "Mon, 22 Jun 2026 18:00:00 GMT",
+        "link": "https://blog.cloudflare.com/hyper-bug/"
+    },
+    {
+        "title": "Temporary Cloudflare Accounts for AI agents",
+        "source": "Cloudflare Workers",
+        "description": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.",
+        "published_date": "Fri, 19 Jun 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/temporary-accounts/"
+    },
+    {
+        "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
+        "source": "Cloudflare Workers",
+        "description": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard",
+        "published_date": "Wed, 17 Jun 2026 19:35:00 GMT",
+        "link": "https://blog.cloudflare.com/agents-platform-flue-sdk/"
+    },
+    {
+        "title": "Announcing Claude Managed Agents on Cloudflare",
+        "source": "Cloudflare Workers",
+        "description": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to private backends and easily customizing their agent’s tools and runtimes.",
+        "published_date": "Tue, 19 May 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/claude-managed-agents/"
+    },
+    {
+        "title": "Browser Run: now running on Cloudflare Containers, it’s faster and more scalable",
+        "source": "Cloudflare Workers",
+        "description": "We’ve enabled higher usage limits, faster performance, better reliability, and increased shipping velocity for our Browser Run product by rebuilding on top of Cloudflare’s Containers. Here’s how.",
+        "published_date": "Wed, 13 May 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/browser-run-containers/"
+    },
+    {
+        "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
+        "source": "Cloudflare Workers",
+        "description": "Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost.",
+        "published_date": "Fri, 01 May 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/dynamic-workflows/"
+    },
+    {
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "source": "Cloudflare Workers",
+        "description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
+        "published_date": "Thu, 30 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/agents-stripe-projects/"
+    },
+    {
+        "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
+        "source": "Cloudflare Workers",
+        "description": "Panics in Rust Workers were historically fatal, poisoning the entire instance. By collaborating upstream on the wasm‑bindgen project, Rust Workers now support resilient critical error recovery, including panic unwinding using WebAssembly Exception Handling.",
+        "published_date": "Wed, 22 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/making-rust-workers-reliable/"
+    },
+    {
+        "title": "The AI engineering stack we built internally — on the platform we ship",
+        "source": "Cloudflare Workers",
+        "description": "We built our internal AI engineering stack on the same products we ship. That means 20 million requests routed through AI Gateway, 241 billion tokens processed, and inference running on Workers AI, serving more than 3,683 internal users. Here's how we did it.",
+        "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/internal-ai-engineering-stack/"
+    },
+    {
+        "title": "Building the agentic cloud: everything we launched during Agents Week 2026",
+        "source": "Cloudflare Workers",
+        "description": "Agents Week 2026 is a wrap. Let’s take a look at everything we announced, from compute and security to the agent toolbox, platform tools, and the emerging agentic web. Everything we shipped for the agentic cloud.",
+        "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/agents-week-in-review/"
+    },
+    {
+        "title": "Introducing Flagship: feature flags built for the age of AI",
+        "source": "Cloudflare Workers",
+        "description": "We are launching Flagship, a native feature flag service built on Cloudflare’s global network to eliminate the latency of third-party providers. By using KV and Durable Objects, Flagship allows for sub-millisecond flag evaluation.",
+        "published_date": "Fri, 17 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/flagship/"
+    },
+    {
+        "title": "Artifacts: versioned storage that speaks Git",
+        "source": "Cloudflare Workers",
+        "description": "Give your agents, developers, and automations a home for code and data. We’ve just launched Artifacts: Git-compatible versioned storage built for agents. Create tens of millions of repos, fork from any remote, and hand off a URL to any Git client.",
+        "published_date": "Thu, 16 Apr 2026 13:01:00 GMT",
+        "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/"
+    },
+    {
+        "title": "Deploy Postgres and MySQL databases with PlanetScale + Workers",
+        "source": "Cloudflare Workers",
+        "description": "Learn how to deploy PlanetScale Postgres and MySQL databases via Cloudflare and connect Cloudflare Workers.",
+        "published_date": "Thu, 16 Apr 2026 13:00:22 GMT",
+        "link": "https://blog.cloudflare.com/deploy-planetscale-postgres-with-workers/"
+    },
+    {
+        "title": "Project Think: building the next generation of AI agents on Cloudflare",
+        "source": "Cloudflare Workers",
+        "description": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
+        "published_date": "Wed, 15 Apr 2026 13:01:00 GMT",
+        "link": "https://blog.cloudflare.com/project-think/"
+    },
+    {
+        "title": "Rearchitecting the Workflows control plane for the agentic era",
+        "source": "Cloudflare Workers",
+        "description": "Cloudflare Workflows, a durable execution engine for multi-step applications, now supports higher concurrency and creation rate limits through a rearchitectured control plane, helping scale to meet the use cases for durable background agents.",
+        "published_date": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/workflows-v2/"
+    },
+    {
+        "title": "Add voice to your agent",
+        "source": "Cloudflare Workers",
+        "description": "An experimental voice pipeline for the Agents SDK enables real-time voice interactions over WebSockets. Developers can now build agents with continuous STT and TTS in just ~30 lines of server-side code.",
+        "published_date": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/voice-agents/"
+    },
+    {
+        "title": "Browser Run: give your agents a browser",
+        "source": "Cloudflare Workers",
+        "description": "Browser Rendering is now Browser Run, with Live View, Human in the Loop, CDP access, session recordings, and 4x higher concurrency limits for AI agents.",
+        "published_date": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "link": "https://blog.cloudflare.com/browser-run-for-ai-agents/"
+    }
+]

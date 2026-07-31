@@ -1,0 +1,142 @@
+[
+    {
+        "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+        "source": "AWS",
+        "description": "Last week I had the privilege of spending three days in São Paulo with technical builders from across Latin America, brought together for a regional tech event full of deep-dive sessions, hands-on workshops, and conversations with customers and partners. What struck me most wasn’t any single session, it was the energy of a technical community […]",
+        "published_date": "Mon, 27 Jul 2026 14:54:41 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/"
+    },
+    {
+        "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+        "source": "AWS",
+        "description": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries across the Asia-Pacific region, listens to feedback […]",
+        "published_date": "Mon, 20 Jul 2026 16:37:34 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
+    },
+    {
+        "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
+        "source": "AWS",
+        "description": "On July 13, 2006, we launched Amazon Simple Queue Service (Amazon SQS) as one of the first three services available to customers, alongside Amazon EC2 and Amazon S3. We had learned firsthand that distributed systems need a reliable way to pass messages between components without creating tight dependencies. If one service called another directly and […]",
+        "published_date": "Mon, 13 Jul 2026 18:13:57 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/"
+    },
+    {
+        "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
+        "source": "AWS",
+        "description": "AWS Builder Center turned one year old last week. Launched on July 9, 2025, the platform has grown from a community hub with Wishlist voting, community profiles, and a toolbox into a full ecosystem with sandbox environments, workshops, Spaces, and a Builders’ Library. To mark the anniversary, Rick Suttles published a full feature timeline covering […]",
+        "published_date": "Mon, 13 Jul 2026 16:18:20 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+        "source": "AWS",
+        "description": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […]",
+        "published_date": "Mon, 06 Jul 2026 15:46:43 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/"
+    },
+    {
+        "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+        "source": "AWS",
+        "description": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
+        "published_date": "Wed, 01 Jul 2026 17:20:30 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/"
+    },
+    {
+        "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
+        "source": "AWS",
+        "description": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmation in seconds and iterate faster. Available in all commercial Regions at no additional cost.",
+        "published_date": "Tue, 30 Jun 2026 21:30:33 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/"
+    },
+    {
+        "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
+        "source": "AWS",
+        "description": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance than Graviton4-based instances, 5x larger cache, fastest memory of any processor instances in the cloud, and local NVMe storage options (C9gd).",
+        "published_date": "Tue, 30 Jun 2026 20:56:44 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/"
+    },
+    {
+        "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
+        "source": "AWS",
+        "description": "AWS Certificate Manager now supports the ACME protocol for public TLS certificates, enabling automated issuance and renewal through any ACMEv2-compatible client on any workload. Administrators get centralized governance, IAM-based access controls, and domain scoping, reducing operational risk as certificate lifetimes continue to reduce.",
+        "published_date": "Tue, 30 Jun 2026 20:15:11 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+        "source": "AWS",
+        "description": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
+        "published_date": "Mon, 29 Jun 2026 16:30:30 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/"
+    },
+    {
+        "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
+        "source": "AWS",
+        "description": "AWS launches a new serverless compute primitive, AWS Lambda MicroVMs. VM-level, isolated sandboxes with no shared kernel or resources between sessions. Rapid launch and resume, full lifecycle control, state preservation up to 8 hours, no infrastructure to manage.",
+        "published_date": "Mon, 22 Jun 2026 22:40:07 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
+    },
+    {
+        "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+        "source": "AWS",
+        "description": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the latest in cloud and AI innovation. Dr. Swami Sivasubramanian, VP of Agentic AI at AWS unveiled a stack of AI launches in his keynote, all built around one thesis: agents that compound value […]",
+        "published_date": "Mon, 22 Jun 2026 14:46:17 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/"
+    },
+    {
+        "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+        "source": "AWS",
+        "description": "Announcing the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, delivering high performance GPU acceleration for AI inference, graphics, and data analytics workloads.",
+        "published_date": "Thu, 18 Jun 2026 21:22:10 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/"
+    },
+    {
+        "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
+        "source": "AWS",
+        "description": "Amazon Elastic Container Service (Amazon ECS) service auto scaling automatically adjusts task counts to meet workload demand with comprehensive scaling policies, including predictive scaling for recurring traffic patterns, scheduled scaling for planned events, and target tracking to scale dynamically on real-time metrics. You can choose proactive scaling by using predictive scaling (automatic) and scheduled scaling […]",
+        "published_date": "Thu, 18 Jun 2026 21:06:38 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/"
+    },
+    {
+        "title": "Top announcements of the AWS Summit in New York, 2026",
+        "source": "AWS",
+        "description": "A recap of the top announcements from AWS's New York Summit 2026",
+        "published_date": "Wed, 17 Jun 2026 16:36:08 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/"
+    },
+    {
+        "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+        "source": "AWS",
+        "description": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Parsing for automatic multi-format data preparation, and an Agentic Retriever for complex multi-step queries—all integrated with AgentCore Gateway so developers can focus on business outcomes rather than infrastructure management.",
+        "published_date": "Wed, 17 Jun 2026 15:09:20 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/"
+    },
+    {
+        "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+        "source": "AWS",
+        "description": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web knowledge with zero data egress from customer's secured AWS environment. You can focus on building agents instead of manually adding web search to agents on Bedrock AgentCore and managing its infrastructure.",
+        "published_date": "Wed, 17 Jun 2026 15:00:11 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/"
+    },
+    {
+        "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
+        "source": "AWS",
+        "description": "AWS Transform – continuous modernization (preview) automatically scans code repositories to detect, prioritize, and remediate technical debt at scale.",
+        "published_date": "Wed, 17 Jun 2026 14:58:00 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/"
+    },
+    {
+        "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+        "source": "AWS",
+        "description": "AWS DevOps Agent now offers release management capability in preview, reviewing code changes for release readiness and running autonomous release testing to help you ship code to production safely and with confidence.",
+        "published_date": "Wed, 17 Jun 2026 14:57:34 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/"
+    },
+    {
+        "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+        "source": "AWS",
+        "description": "AWS Security Agent now adds STRIDE-based threat modeling, full repo and PR code scanning with remediation across major Git platforms, and IDE integrations via Kiro power, Claude Code plugin, and MCP — letting developers run security reviews and fix issues without context switching.",
+        "published_date": "Wed, 17 Jun 2026 14:54:55 +0000",
+        "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/"
+    }
+]

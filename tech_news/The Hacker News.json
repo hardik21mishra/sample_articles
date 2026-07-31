@@ -1,0 +1,352 @@
+[
+    {
+        "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+        "source": "The Hacker News",
+        "description": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign.\n\nThe defining aspect of the attack is that bogus macOS software update screen stealthily",
+        "published_date": "Thu, 30 Jul 2026 23:48:24 +0530",
+        "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html"
+    },
+    {
+        "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+        "source": "The Hacker News",
+        "description": "A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.\n\nSome defenses improved. The loose parts still got found first. Anyway,",
+        "published_date": "Thu, 30 Jul 2026 20:55:57 +0530",
+        "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html"
+    },
+    {
+        "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+        "source": "The Hacker News",
+        "description": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.\n\nWiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a",
+        "published_date": "Thu, 30 Jul 2026 19:04:09 +0530",
+        "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html"
+    },
+    {
+        "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+        "source": "The Hacker News",
+        "description": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.\n\nIn his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.\n\nMåløy's",
+        "published_date": "Thu, 30 Jul 2026 17:24:49 +0530",
+        "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html"
+    },
+    {
+        "title": "The Network Has Become the Control Plane for AI Security",
+        "source": "The Hacker News",
+        "description": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls",
+        "published_date": "Thu, 30 Jul 2026 17:02:46 +0530",
+        "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html"
+    },
+    {
+        "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+        "source": "The Hacker News",
+        "description": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors.\n\nA compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or",
+        "published_date": "Thu, 30 Jul 2026 16:03:15 +0530",
+        "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html"
+    },
+    {
+        "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+        "source": "The Hacker News",
+        "description": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access.\n\n\"In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate",
+        "published_date": "Thu, 30 Jul 2026 16:02:59 +0530",
+        "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html"
+    },
+    {
+        "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+        "source": "The Hacker News",
+        "description": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors.\n\nThe activity, which began on July 22, 2026, involves the",
+        "published_date": "Thu, 30 Jul 2026 13:10:48 +0530",
+        "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html"
+    },
+    {
+        "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+        "source": "The Hacker News",
+        "description": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US.\n\nPreviously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+        "published_date": "Thu, 30 Jul 2026 12:58:43 +0530",
+        "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html"
+    },
+    {
+        "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+        "source": "The Hacker News",
+        "description": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them.\n\nThe original Aikido and Wiz reports did not attribute the",
+        "published_date": "Thu, 30 Jul 2026 11:35:17 +0530",
+        "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html"
+    },
+    {
+        "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+        "source": "The Hacker News",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.\n\nThe vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+        "published_date": "Thu, 30 Jul 2026 10:38:39 +0530",
+        "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html"
+    },
+    {
+        "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+        "source": "The Hacker News",
+        "description": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+        "published_date": "Wed, 29 Jul 2026 23:40:00 +0530",
+        "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html"
+    },
+    {
+        "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+        "source": "The Hacker News",
+        "description": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\nThe vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
+        "published_date": "Wed, 29 Jul 2026 21:09:30 +0530",
+        "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html"
+    },
+    {
+        "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+        "source": "The Hacker News",
+        "description": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.\n\n\"A malicious actor with network access to vCenter",
+        "published_date": "Wed, 29 Jul 2026 21:01:15 +0530",
+        "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html"
+    },
+    {
+        "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+        "source": "The Hacker News",
+        "description": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.\n\nBraham's water plant went offline, and the city asked residents to minimize",
+        "published_date": "Wed, 29 Jul 2026 19:18:36 +0530",
+        "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html"
+    },
+    {
+        "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+        "source": "The Hacker News",
+        "description": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.\n\nAccording to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
+        "published_date": "Wed, 29 Jul 2026 19:12:57 +0530",
+        "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html"
+    },
+    {
+        "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+        "source": "The Hacker News",
+        "description": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change?\n\nThe honest answer is",
+        "published_date": "Wed, 29 Jul 2026 17:45:00 +0530",
+        "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html"
+    },
+    {
+        "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+        "source": "The Hacker News",
+        "description": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.\n\n\"No settings or additional user interaction are required,\" Eten Zou,",
+        "published_date": "Wed, 29 Jul 2026 17:27:00 +0530",
+        "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html"
+    },
+    {
+        "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+        "source": "The Hacker News",
+        "description": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
+        "published_date": "Wed, 29 Jul 2026 16:43:10 +0530",
+        "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html"
+    },
+    {
+        "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+        "source": "The Hacker News",
+        "description": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law.\n\nThe principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
+        "published_date": "Wed, 29 Jul 2026 16:30:00 +0530",
+        "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html"
+    },
+    {
+        "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+        "source": "The Hacker News",
+        "description": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
+        "published_date": "Wed, 29 Jul 2026 14:28:27 +0530",
+        "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html"
+    },
+    {
+        "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+        "source": "The Hacker News",
+        "description": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack.\n\nThe latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
+        "published_date": "Wed, 29 Jul 2026 13:21:00 +0530",
+        "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
+    },
+    {
+        "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+        "source": "The Hacker News",
+        "description": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account.\n\nTracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
+        "published_date": "Wed, 29 Jul 2026 13:17:19 +0530",
+        "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html"
+    },
+    {
+        "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+        "source": "The Hacker News",
+        "description": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.\n\nThey linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
+        "published_date": "Wed, 29 Jul 2026 12:37:23 +0530",
+        "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html"
+    },
+    {
+        "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+        "source": "The Hacker News",
+        "description": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\nThe list of affected packages is as follows -\n\n\n  @joyfill/layouts@0.1.2-2773.beta.0\n  @joyfill/components@4.0.0-rc24-2773-beta.4\n\nThe two packages \"contain an import-time JavaScript implant that resolves encrypted code",
+        "published_date": "Wed, 29 Jul 2026 09:50:57 +0530",
+        "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html"
+    },
+    {
+        "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+        "source": "The Hacker News",
+        "description": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
+        "published_date": "Wed, 29 Jul 2026 00:29:07 +0530",
+        "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html"
+    },
+    {
+        "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+        "source": "The Hacker News",
+        "description": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force.\n\nTengu supports 25 distributed denial-of-service (",
+        "published_date": "Tue, 28 Jul 2026 20:31:33 +0530",
+        "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html"
+    },
+    {
+        "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+        "source": "The Hacker News",
+        "description": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.\n\nOf the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
+        "published_date": "Tue, 28 Jul 2026 20:11:36 +0530",
+        "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html"
+    },
+    {
+        "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+        "source": "The Hacker News",
+        "description": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
+        "published_date": "Tue, 28 Jul 2026 19:03:47 +0530",
+        "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html"
+    },
+    {
+        "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+        "source": "The Hacker News",
+        "description": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6",
+        "published_date": "Tue, 28 Jul 2026 18:26:14 +0530",
+        "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html"
+    },
+    {
+        "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+        "source": "The Hacker News",
+        "description": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia.\n\nThe intrusions involve the use of a previously undocumented Windows backdoor called NightLedger and two custom WebSocket tunnelers,",
+        "published_date": "Tue, 28 Jul 2026 17:25:20 +0530",
+        "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html"
+    },
+    {
+        "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+        "source": "The Hacker News",
+        "description": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nThe vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions. It has been addressed in versions 2025.11.7 and 2026.1.3. TeamCity Cloud instances have already",
+        "published_date": "Tue, 28 Jul 2026 13:41:22 +0530",
+        "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html"
+    },
+    {
+        "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+        "source": "The Hacker News",
+        "description": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificial intelligence (AI) helped him find the bug and speed up exploit development. This is local",
+        "published_date": "Tue, 28 Jul 2026 13:34:44 +0530",
+        "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html"
+    },
+    {
+        "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
+        "source": "The Hacker News",
+        "description": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.\n\nThe company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current best MDASH combination of GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex. Access is limited to approved",
+        "published_date": "Tue, 28 Jul 2026 11:37:22 +0530",
+        "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html"
+    },
+    {
+        "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+        "source": "The Hacker News",
+        "description": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrary code execution.\n\n\"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
+        "published_date": "Tue, 28 Jul 2026 10:13:53 +0530",
+        "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html"
+    },
+    {
+        "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+        "source": "The Hacker News",
+        "description": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\nThe 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
+        "published_date": "Mon, 27 Jul 2026 23:40:05 +0530",
+        "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html"
+    },
+    {
+        "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+        "source": "The Hacker News",
+        "description": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt.\n\nCNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese",
+        "published_date": "Mon, 27 Jul 2026 22:46:28 +0530",
+        "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html"
+    },
+    {
+        "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+        "source": "The Hacker News",
+        "description": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user.\n\nSSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version",
+        "published_date": "Mon, 27 Jul 2026 20:10:00 +0530",
+        "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html"
+    },
+    {
+        "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+        "source": "The Hacker News",
+        "description": "Monday starts with the usual promise that everything is under control. Then the logs wake up.\n\nThis week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped.\n\nThat is the mood. Here is the full recap.\n\n⚡ Threat of the Week\n\nOpenAI Says Its AI Agent Went Rogue",
+        "published_date": "Mon, 27 Jul 2026 19:40:54 +0530",
+        "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html"
+    },
+    {
+        "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+        "source": "The Hacker News",
+        "description": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass.\n\nThe affected ranges are &lt;2.31.5 and &gt;=2.32.0,&lt;2.32.1. n8n fixed the flaw in versions 2.31.5 and",
+        "published_date": "Mon, 27 Jul 2026 18:35:15 +0530",
+        "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html"
+    },
+    {
+        "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+        "source": "The Hacker News",
+        "description": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools.\n\n\"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared document could be opened,\" ZeroBEC said in",
+        "published_date": "Mon, 27 Jul 2026 18:07:49 +0530",
+        "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html"
+    },
+    {
+        "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+        "source": "The Hacker News",
+        "description": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra.\n\nAccording to a new analysis by Proofpoint, Cruciferra has been utilized by various unrelated cybercriminal threat clusters to deliver a wide array of remote",
+        "published_date": "Mon, 27 Jul 2026 16:21:45 +0530",
+        "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html"
+    },
+    {
+        "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+        "source": "The Hacker News",
+        "description": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
+        "published_date": "Mon, 27 Jul 2026 14:18:47 +0530",
+        "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html"
+    },
+    {
+        "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+        "source": "The Hacker News",
+        "description": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits your project,\" the Microsoft-owned subsidiary said.\n\nAccording to GitHub, the",
+        "published_date": "Mon, 27 Jul 2026 13:31:23 +0530",
+        "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html"
+    },
+    {
+        "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+        "source": "The Hacker News",
+        "description": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.\n\nConfiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
+        "published_date": "Sun, 26 Jul 2026 00:18:44 +0530",
+        "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
+    },
+    {
+        "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+        "source": "The Hacker News",
+        "description": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.\n\nTracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+        "published_date": "Sat, 25 Jul 2026 18:22:43 +0530",
+        "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+    },
+    {
+        "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+        "source": "The Hacker News",
+        "description": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.\n\nAny authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap",
+        "published_date": "Sat, 25 Jul 2026 15:44:26 +0530",
+        "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
+    },
+    {
+        "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+        "source": "The Hacker News",
+        "description": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.\n\nThat model is changing.\n\nRecent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
+        "published_date": "Sat, 25 Jul 2026 15:44:21 +0530",
+        "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html"
+    },
+    {
+        "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+        "source": "The Hacker News",
+        "description": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.\n\n\"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+        "published_date": "Sat, 25 Jul 2026 15:44:03 +0530",
+        "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
+    },
+    {
+        "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+        "source": "The Hacker News",
+        "description": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims.\n\nSwiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis.\n\n\"The portal combined build generation, finance,",
+        "published_date": "Sat, 25 Jul 2026 15:23:41 +0530",
+        "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
+    }
+]

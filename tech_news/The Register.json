@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Tech buyers are baking in sovereignty from day one, says Forrester",
+        "source": "The Register",
+        "description": "European firms feel the greatest pressure as US giants dominate cloud and AI infrastructure",
+        "published_date": "Fri, 31 Jul 2026 12:00:00 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/31/tech-buyers-are-baking-in-sovereignty-from-day-one-says-forrester/5281208"
+    },
+    {
+        "title": "UK wants datacenters to pay a fee for grid connection requests",
+        "source": "The Register",
+        "description": "Refundable charge intended to discourage time wasters from filing applications that will never be realized",
+        "published_date": "Fri, 31 Jul 2026 11:15:00 +0200",
+        "link": "https://www.theregister.com/systems/2026/07/31/uk-wants-datacenters-to-pay-a-fee-for-grid-connection-requests/5281248"
+    },
+    {
+        "title": "Airport sign fails to boot, officers already on the scene",
+        "source": "The Register",
+        "description": "Bork! Bork! That's the sound of the police",
+        "published_date": "Fri, 31 Jul 2026 10:30:00 +0200",
+        "link": "https://www.theregister.com/offbeat/2026/07/31/airport-sign-fails-to-boot-officers-already-on-the-scene/5281066"
+    },
+    {
+        "title": "Techie lured out of retirement to support software only he remembered",
+        "source": "The Register",
+        "description": "The first job was lucrative and went well, but a pension was preferable to rolling projects",
+        "published_date": "Fri, 31 Jul 2026 08:30:00 +0200",
+        "link": "https://www.theregister.com/software/2026/07/31/techie-lured-out-of-retirement-to-support-software-only-he-remembered/5280245"
+    },
+    {
+        "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+        "source": "The Register",
+        "description": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
+        "published_date": "Fri, 31 Jul 2026 04:19:39 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562"
+    },
+    {
+        "title": "Amazon's Q2 was great, but the earnings release is packed with baloney",
+        "source": "The Register",
+        "description": "\"Tell me lies, tell me sweet little lies\"",
+        "published_date": "Fri, 31 Jul 2026 02:08:45 +0200",
+        "link": "https://www.theregister.com/paas-and-iaas/2026/07/31/amazon-q2-earnings-strong-results-much-baloney-in-press-release-corey-quinn/5281486"
+    },
+    {
+        "title": "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
+        "source": "The Register",
+        "description": "AI-riddled social network adds button to report sloppy posts, ditches AI rewrite tools, and promises more to come",
+        "published_date": "Thu, 30 Jul 2026 22:26:49 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/30/linkedin-realizes-its-users-have-been-bathing-in-ai-slop-offers-a-shower/5281436"
+    },
+    {
+        "title": "Oracle adds Google Gemini to the agent menu",
+        "source": "The Register",
+        "description": "Chocolate Factory LLMs join Big Red's Fusion automation party",
+        "published_date": "Thu, 30 Jul 2026 20:40:29 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/30/oracle-adds-google-gemini-to-the-agent-menu/5281331"
+    },
+    {
+        "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
+        "source": "The Register",
+        "description": "High-bandwidth flash promises SSD-like capacities with HBM-like speeds, but it's not all unicorns and rainbows",
+        "published_date": "Thu, 30 Jul 2026 20:33:00 +0200",
+        "link": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363"
+    },
+    {
+        "title": "Open source project fools AI scrapers with poisoned font",
+        "source": "The Register",
+        "description": "ShieldFont is available today if you've got copy that needs protecting",
+        "published_date": "Thu, 30 Jul 2026 19:19:23 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303"
+    },
+    {
+        "title": "Jailed Flock vandal wipes out three cameras, racks up thousands in damages",
+        "source": "The Register",
+        "description": "A lesson for aspiring vandals: Take out all the cameras, not just the ones that flout your ideals",
+        "published_date": "Thu, 30 Jul 2026 17:28:00 +0200",
+        "link": "https://www.theregister.com/security/2026/07/30/jailed-flock-vandal-wipes-out-three-cameras-racks-up-thousands-in-damages/5281224"
+    },
+    {
+        "title": "Americans give all-day school phone bans a ringing endorsement",
+        "source": "The Register",
+        "description": "Polling suggests patience with handsets in the classroom is running shorter than a teenager's battery life",
+        "published_date": "Thu, 30 Jul 2026 16:31:00 +0200",
+        "link": "https://www.theregister.com/personal-tech/2026/07/30/americans-give-all-day-school-phone-bans-a-ringing-endorsement/5281186"
+    },
+    {
+        "title": "From individual achievement to partner impact",
+        "source": "The Register",
+        "description": "PARTNER CONTENT: Databricks survey data suggests certified professionals lift partner delivery capacity, customer credibility, and AI readiness well beyond the individuals who earn the credential",
+        "published_date": "Thu, 30 Jul 2026 16:00:00 +0200",
+        "link": "https://www.theregister.com/storage/2026/07/30/partner-content/5277414"
+    },
+    {
+        "title": "Samsung warns memory crunch will last through 2028 as profit rises 19-fold",
+        "source": "The Register",
+        "description": "Tech giant counts record piles of cash while buyers face years of elevated prices",
+        "published_date": "Thu, 30 Jul 2026 15:50:00 +0200",
+        "link": "https://www.theregister.com/systems/2026/07/30/samsung-warns-memory-crunch-will-last-through-2028-as-profit-rises-19-fold/5281142"
+    },
+    {
+        "title": "Amazon links four poisoned npm packages to one North Korean crew",
+        "source": "The Register",
+        "description": "Researchers say Sapphire Sleet socially engineered maintainers before publishing malicious updates through trusted accounts",
+        "published_date": "Thu, 30 Jul 2026 15:13:00 +0200",
+        "link": "https://www.theregister.com/cyber-crime/2026/07/30/amazon-links-four-poisoned-npm-packages-to-one-north-korean-crew/5281120"
+    },
+    {
+        "title": "Microsoft makes Copilot harder to miss in Classic Outlook",
+        "source": "The Register",
+        "description": "New button beside the ribbon promises consistency – and more questions for admins",
+        "published_date": "Thu, 30 Jul 2026 14:28:00 +0200",
+        "link": "https://www.theregister.com/on-prem/2026/07/30/microsoft-makes-copilot-harder-to-miss-in-classic-outlook/5280997"
+    },
+    {
+        "title": "Hims & Hers accused of sharing health secrets and hiding the cancel button",
+        "source": "The Register",
+        "description": "FTC says Meta and Snap received sensitive patient information while customers faced unexpected prescription charges",
+        "published_date": "Thu, 30 Jul 2026 13:45:00 +0200",
+        "link": "https://www.theregister.com/legal/2026/07/30/ftc-sues-hims-hers-for-sharing-health-data-with-big-tech/5281092"
+    },
+    {
+        "title": "MariaDB again faces questions over Galera's open source future",
+        "source": "The Register",
+        "description": "Support for the MySQL build ends in September as the company develops separate premium replication technology",
+        "published_date": "Thu, 30 Jul 2026 13:01:00 +0200",
+        "link": "https://www.theregister.com/databases/2026/07/30/mariadb-again-faces-questions-over-galeras-open-source-future/5280975"
+    },
+    {
+        "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
+        "source": "The Register",
+        "description": "Opening a booby-trapped message unleashes a browser implant that can survive password changes and device rebuilds",
+        "published_date": "Thu, 30 Jul 2026 12:29:00 +0200",
+        "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033"
+    },
+    {
+        "title": "The majority of corporate IT is now off premises for the first time",
+        "source": "The Register",
+        "description": "Survey finds more workloads run off-site than at in-house corporate facilities for the first time",
+        "published_date": "Thu, 30 Jul 2026 12:00:00 +0200",
+        "link": "https://www.theregister.com/off-prem/2026/07/30/the-majority-of-corporate-it-is-now-off-premises-for-the-first-time/5280554"
+    },
+    {
+        "title": "30 years ago, AT&T gave Internet Explorer the default advantage",
+        "source": "The Register",
+        "description": "Netscape still ruled the browser market, but Microsoft had Windows 95, WorldNet, and a very valuable foothold",
+        "published_date": "Thu, 30 Jul 2026 11:15:00 +0200",
+        "link": "https://www.theregister.com/offbeat/2026/07/30/30-years-ago-att-gave-internet-explorer-the-default-advantage/5279373"
+    },
+    {
+        "title": "Brighton gig screen goes One Step Beyond with an update pop-up",
+        "source": "The Register",
+        "description": "Install now or remind me later? Neither belongs in the House of Fun",
+        "published_date": "Thu, 30 Jul 2026 10:30:00 +0200",
+        "link": "https://www.theregister.com/offbeat/2026/07/30/brighton-gig-screen-goes-one-step-beyond-with-an-update-pop-up/5279823"
+    },
+    {
+        "title": "Headteacher had the most guessable username-password combo you could imagine",
+        "source": "The Register",
+        "description": "Schools often don't prioritize or understand cybersecurity",
+        "published_date": "Thu, 30 Jul 2026 09:00:00 +0200",
+        "link": "https://www.theregister.com/security/2026/07/30/headteacher-had-the-most-guessable-username-password-combo-you-could-imagine/5280709"
+    },
+    {
+        "title": "Excuses like 'AI did it' don't exist in the eyes of the law",
+        "source": "The Register",
+        "description": "If your AI goes rogue, better have a good lawyer",
+        "published_date": "Thu, 30 Jul 2026 08:30:00 +0200",
+        "link": "https://www.theregister.com/legal/2026/07/30/excuses-like-ai-did-it-dont-exist-in-the-eyes-of-the-law/5280767"
+    },
+    {
+        "title": "Veeam adds support for six more hypervisors in case you are up for a new one",
+        "source": "The Register",
+        "description": "Yes, this is mostly about VMware migrations",
+        "published_date": "Thu, 30 Jul 2026 07:59:15 +0200",
+        "link": "https://www.theregister.com/virtualization/2026/07/30/veeam-adds-support-for-six-more-hypervisors-in-case-you-are-up-for-a-new-one/5280891"
+    },
+    {
+        "title": "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees",
+        "source": "The Register",
+        "description": "Posisbly cracked mud, therefore more evidence Red Planet was once less horrible",
+        "published_date": "Thu, 30 Jul 2026 05:38:49 +0200",
+        "link": "https://www.theregister.com/science/2026/07/30/curiosity-rover-spots-field-of-giant-honeycomb-on-mars-but-no-giant-space-bees/5280862"
+    },
+    {
+        "title": "Qualcomm won’t be a big datacenter player anytime soon",
+        "source": "The Register",
+        "description": "But AI has come along just in time to cover being dumped by Apple",
+        "published_date": "Thu, 30 Jul 2026 04:43:56 +0200",
+        "link": "https://www.theregister.com/systems/2026/07/30/qualcomm-wont-be-a-big-datacenter-player-anytime-soon/5280839"
+    },
+    {
+        "title": "Cisco 'retires' its Azure Local offering rather than catch up to Microsoft’s changed hardware requirements",
+        "source": "The Register",
+        "description": "Redmond now allows only locked-down rigs with joint software and hardware support for its on-prem hyperconverged cloud and Switchzilla won't go there",
+        "published_date": "Thu, 30 Jul 2026 03:09:58 +0200",
+        "link": "https://www.theregister.com/on-prem/2026/07/30/cisco-retires-its-azure-local-offering-rather-than-catch-up-to-microsofts-changed-hardware-requirements/5280823"
+    },
+    {
+        "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+        "source": "The Register",
+        "description": "Capex spending? What? Me worry?",
+        "published_date": "Thu, 30 Jul 2026 01:17:56 +0200",
+        "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798"
+    },
+    {
+        "title": "NOAA ditches weather-predicting supercomputers for Google Cloud",
+        "source": "The Register",
+        "description": "Government agency will use Google Cloud H4D VMs to replace HPE Cray machines",
+        "published_date": "Wed, 29 Jul 2026 23:02:00 +0200",
+        "link": "https://www.theregister.com/hpc/2026/07/29/noaa-ditches-weather-predicting-supercomputers-for-google-cloud/5280697"
+    },
+    {
+        "title": "Big vacuum is watching as robo-cleaners put humans behind the wheel",
+        "source": "The Register",
+        "description": "Like a Waymo mated with a Roomba",
+        "published_date": "Wed, 29 Jul 2026 22:44:00 +0200",
+        "link": "https://www.theregister.com/offbeat/2026/07/29/big-vacuum-is-watching-as-robo-cleaners-put-humans-behind-the-wheel/5280674"
+    },
+    {
+        "title": "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake",
+        "source": "The Register",
+        "description": "Meanwhile, the other state-backed foundry, Intel, wraps up RAMP-C defense test chip program",
+        "published_date": "Wed, 29 Jul 2026 21:02:00 +0200",
+        "link": "https://www.theregister.com/public-sector/2026/07/29/uncle-sam-sees-the-light-offers-globalfoundries-300m-to-pursue-silicon-photonics-while-taking-1-stake/5280620"
+    },
+    {
+        "title": "Closed models refuse to help researcher swat Linux bug",
+        "source": "The Register",
+        "description": "\"I'm sorry, Dave. I'm afraid I can't do that\" is an effective sales pitch for open source",
+        "published_date": "Wed, 29 Jul 2026 20:33:16 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/29/closed-models-refuse-to-help-researcher-swat-linux-bug/5280647"
+    },
+    {
+        "title": "Word worm crawls into Copilot, spreads chaos",
+        "source": "The Register",
+        "description": "Researcher says months of coordination with Microsoft have yet to produce a robust mitigation",
+        "published_date": "Wed, 29 Jul 2026 18:43:54 +0200",
+        "link": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588"
+    },
+    {
+        "title": "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
+        "source": "The Register",
+        "description": "FSB claims Ukrainian spies use chat platform to recruit Russians for sabotage and arson",
+        "published_date": "Wed, 29 Jul 2026 17:56:46 +0200",
+        "link": "https://www.theregister.com/applications/2026/07/29/moscow-slaps-telegram-founder-on-wanted-list-durov-responds-with-one-finger-salute/5280522"
+    },
+    {
+        "title": "MinIO pitches persistent memory for agents with work to finish",
+        "source": "The Register",
+        "description": "AIStor keeps context, files, and secrets under customer control so interrupted jobs can pick up where they left off",
+        "published_date": "Wed, 29 Jul 2026 17:15:00 +0200",
+        "link": "https://www.theregister.com/storage/2026/07/29/minio-pitches-persistent-memory-for-agents-with-work-to-finish/5280407"
+    },
+    {
+        "title": "The VMware deadline that could reshape your IT strategy",
+        "source": "The Register",
+        "description": "PARTNER CONTENT: With vSphere 8 support ending in 2027, IT leaders must navigate tight timelines and costs to modernize on their terms.",
+        "published_date": "Wed, 29 Jul 2026 17:00:00 +0200",
+        "link": "https://www.theregister.com/virtualization/2026/07/29/partner-content/5279072"
+    },
+    {
+        "title": "NASA Swift rescue mission spins into trouble during commissioning",
+        "source": "The Register",
+        "description": "Two reaction wheels are out and comms sporadic as controllers work to stabilize LINK",
+        "published_date": "Wed, 29 Jul 2026 16:29:00 +0200",
+        "link": "https://www.theregister.com/science/2026/07/29/nasa-swift-rescue-mission-spins-into-trouble-during-commissioning/5280425"
+    },
+    {
+        "title": "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems",
+        "source": "The Register",
+        "description": "More than 30 facilities disrupted in 'coordinated cyberattack,' though officials have yet to name a culprit",
+        "published_date": "Wed, 29 Jul 2026 15:49:00 +0200",
+        "link": "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357"
+    },
+    {
+        "title": "AI storage boom is keeping Seagate's hard drives spinning",
+        "source": "The Register",
+        "description": "Cloud operators have already claimed most of its nearline capacity through 2028",
+        "published_date": "Wed, 29 Jul 2026 15:17:00 +0200",
+        "link": "https://www.theregister.com/storage/2026/07/29/ai-storage-boom-is-keeping-seagates-hard-drives-spinning/5280437"
+    },
+    {
+        "title": "Microsoft faces competition probe over Copilot subscription price hike",
+        "source": "The Register",
+        "description": "Watchdog asks whether customers were clearly told how to avoid the costlier AI-equipped plans",
+        "published_date": "Wed, 29 Jul 2026 14:45:52 +0200",
+        "link": "https://www.theregister.com/software/2026/07/29/microsoft-faces-competition-probe-over-copilot-subscription-price-hike/5280474"
+    },
+    {
+        "title": "AI insiders ask Uncle Sam to help slow the race they started",
+        "source": "The Register",
+        "description": "More than 1,200 industry staff sign petition seeking international guardrails for automated research",
+        "published_date": "Wed, 29 Jul 2026 14:11:00 +0200",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/29/ai-insiders-ask-uncle-sam-to-help-slow-the-race-they-started/5280323"
+    },
+    {
+        "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
+        "source": "The Register",
+        "description": "Cloud database upstart wants one virtual machine core to power multiple SQL frontends",
+        "published_date": "Wed, 29 Jul 2026 13:28:00 +0200",
+        "link": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835"
+    },
+    {
+        "title": "Back of the NetApp: Latest exec signing scores $34M compensation package",
+        "source": "The Register",
+        "description": "Product chief shoots straight to the top of the pay league, out-earning CEO in fiscal '26",
+        "published_date": "Wed, 29 Jul 2026 12:45:00 +0200",
+        "link": "https://www.theregister.com/storage/2026/07/29/back-of-the-netapp-latest-exec-signing-scores-34m-compensation-package/5280307"
+    },
+    {
+        "title": "NHS England rapped over inaccurate Palantir patient data disclosure",
+        "source": "The Register",
+        "description": "Privacy guardian warns public trust quickly erodes when supplier access comes as a surprise",
+        "published_date": "Wed, 29 Jul 2026 12:08:34 +0200",
+        "link": "https://www.theregister.com/public-sector/2026/07/29/nhs-england-rapped-over-inaccurate-palantir-patient-data-disclosure/5280233"
+    },
+    {
+        "title": "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
+        "source": "The Register",
+        "description": "Researchers uncover patterns in how sleeping minds recombine memories, people, and places",
+        "published_date": "Wed, 29 Jul 2026 11:15:00 +0200",
+        "link": "https://www.theregister.com/offbeat/2026/07/29/ai-digs-through-3700-accounts-of-dreams-and-waking-life-finds-method-in-the-madness/5279775"
+    },
+    {
+        "title": "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
+        "source": "The Register",
+        "description": "Splitting up responsibility for digital transformation and procurement while AI gets a seat at Cabinet risks incoherency",
+        "published_date": "Wed, 29 Jul 2026 10:30:00 +0200",
+        "link": "https://www.theregister.com/public-sector/2026/07/29/burnhams-spanner-in-the-works-leaves-uk-government-tech-scattered-across-whitehall/5279437"
+    },
+    {
+        "title": "Why the 'patchpocalypse' demands immediate isolation",
+        "source": "The Register",
+        "description": "PARTNER CONTENT: Attackers automated, but your 30-day patch window didn't",
+        "published_date": "Wed, 29 Jul 2026 10:00:00 +0200",
+        "link": "https://www.theregister.com/patches/2026/07/29/partner-content/5280568"
+    },
+    {
+        "title": "Airbus keeps an A350 flying for 24 hours",
+        "source": "The Register",
+        "description": "Ultra long range edition should enable 22-hour nonstop Australia-to-Europe flights next year",
+        "published_date": "Wed, 29 Jul 2026 08:34:56 +0200",
+        "link": "https://www.theregister.com/offbeat/2026/07/29/airbus-keeps-an-a350-flying-for-24-hours/5280209"
+    },
+    {
+        "title": "Big Tech demanding deals that smooth out memory prices, says SK Hynix",
+        "source": "The Register",
+        "description": "Don't worry about an AI bust, monster profits and huge margins are here to stay",
+        "published_date": "Wed, 29 Jul 2026 07:18:18 +0200",
+        "link": "https://www.theregister.com/systems/2026/07/29/big-tech-demanding-deals-that-smooth-out-memory-prices-says-sk-hynix/5280182"
+    }
+]

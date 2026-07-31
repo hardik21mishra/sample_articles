@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Terraform AzureRM provider 5.0 now generally available",
+        "source": "HashiCorp",
+        "description": "Terraform AzureRM provider 5.0 adds more control over Resource Provider registration, opt-in Azure preflight validation, and a cleaner base for future development.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available"
+    },
+    {
+        "title": "Terraform Stacks, explained",
+        "source": "HashiCorp",
+        "description": "Terraform Stacks simplify provisioning and managing resources at scale, reducing the time and overhead of managing infrastructure.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/terraform-stacks-explained"
+    },
+    {
+        "title": "Terraform introduces workspaces and Stacks restore, and more",
+        "source": "HashiCorp",
+        "description": "HCP Terraform and Terraform Enterprise boost resiliency, governance, and scalability, helping platform teams manage infrastructure and deliver faster at scale.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more"
+    },
+    {
+        "title": "One service, many doors: Multi-port services in Consul",
+        "source": "HashiCorp",
+        "description": "Native multi-port support lets Consul model applications the way teams understand them, resulting in one identity, multiple named ports, and less catalog clutter.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul"
+    },
+    {
+        "title": "Autonomous infrastructure: Managing complexity in agentic workflows",
+        "source": "HashiCorp",
+        "description": "AI agents are changing infrastructure operations. Learn the seven layers required to scale autonomy with confidence, control, and visibility.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/autonomous-infrastructure-managing-complexity-in-agentic-workflows"
+    },
+    {
+        "title": "AI speeds software development. Is your secret security keeping up?",
+        "source": "HashiCorp",
+        "description": "As AI accelerates software development, secret sprawl is becoming one of the fastest growing sources of security, compliance, and operational risk.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/ai-speeds-software-development-is-your-secret-security-keeping-up"
+    },
+    {
+        "title": "Understanding Vault performance: Benchmarks from real-world workloads",
+        "source": "HashiCorp",
+        "description": "Discover how Vault Enterprise performs under real-world concurrency and payload sizes, with KV, SSH, and PKI benchmarks on HashiCorp Validated Designs.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/understanding-vault-performance-benchmarks-from-real-world-workloads"
+    },
+    {
+        "title": "Introducing tfpolicy: A declarative policy workflow built for Terraform",
+        "source": "HashiCorp",
+        "description": "Terraform policy brings HCL-based policy as code into Terraform, helping teams define and enforce governance policies with more lifecycle context.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/introducing-tfpolicy-a-declarative-policy-workflow-built-for-terraform"
+    },
+    {
+        "title": "Preparing for the post-quantum era: Discover and prioritize now",
+        "source": "HashiCorp",
+        "description": "As organizations prepare for the post-quantum era, it may seem natural to immediately dive into quantum-safe cryptography migration efforts.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/preparing-for-the-post-quantum-era-discover-and-prioritize-now"
+    },
+    {
+        "title": "Announcing the public beta of Vault Kubernetes key management",
+        "source": "HashiCorp",
+        "description": "Announcing the public beta of Vault Kubernetes key management, enabling Kubernetes to use Vault Enterprise as a KMS provider for etcd encryption.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/announcing-the-public-beta-of-vault-kubernetes-key-management"
+    },
+    {
+        "title": "Building resiliency into Boundary session recording",
+        "source": "HashiCorp",
+        "description": "Build resilient, tamper-evident audit trails using Boundary session recording to ensure durable, verifiable capture of privileged activity despite failures.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/building-resiliency-into-boundary-session-recording"
+    },
+    {
+        "title": "Discover, govern, and scale Azure infrastructure in the AI era",
+        "source": "HashiCorp",
+        "description": "Learn how Terraform helps teams discover unmanaged Azure resources, reduce infrastructure drift, and establish governance as cloud and AI environments scale.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/discover-govern-and-scale-azure-infrastructure-in-the-ai-era"
+    },
+    {
+        "title": "HCP Terraform powered by Infragraph is now in limited availability",
+        "source": "HashiCorp",
+        "description": "Hybrid and multi-cloud estates create data silos. HCP Terraform powered by Infragraph provides a single source of truth to help optimize and secure infrastructure.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/hcp-terraform-powered-by-infragraph-limited-availability-launch"
+    },
+    {
+        "title": "Terraform MCP server: Four real-world AI infrastructure patterns",
+        "source": "HashiCorp",
+        "description": "Discover how Terraform MCP Server helps AI agents make better infrastructure decisions using trusted organizational context and guardrails.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/terraform-mcp-server-four-real-world-ai-infrastructure-patterns"
+    },
+    {
+        "title": "Deploy Boundary on Kubernetes with official Helm charts",
+        "source": "HashiCorp",
+        "description": "HashiCorp Boundary now offers official Helm charts for deploying controllers and workers on Kubernetes. Learn which chart fits your deployment model and how to get started.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/deploy-boundary-on-kubernetes-with-official-helm-charts"
+    },
+    {
+        "title": "Boundary 1.0 releases RDP session recording and improved management",
+        "source": "HashiCorp",
+        "description": "Boundary 1.0 releases with support for RDP session recording and a preview ahead towards securing AI agent access in a brave new agentic world.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/boundary-1-releases-with-rdp-session-recording-and-improved-management"
+    },
+    {
+        "title": "Scaling without friction: Aliases at project scope in Boundary",
+        "source": "HashiCorp",
+        "description": "Boundary now supports aliases at project scope, aligning access with your organization's infrastructure while enabling teams to scale independently without conflicts.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/scaling-without-friction-aliases-at-project-scope-in-boundary"
+    },
+    {
+        "title": "HCP Vault Dedicated introduces cluster disaster recovery (public preview)",
+        "source": "HashiCorp",
+        "description": "Cluster DR for HCP Vault Dedicated (public preview) enables DR drills at the cluster level, so teams can simulate cluster failures and prove failover readiness.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/hcp-vault-dedicated-introduces-cluster-disaster-recovery-public-preview"
+    },
+    {
+        "title": "Advancing AI agent security in Vault",
+        "source": "HashiCorp",
+        "description": "HashiCorp Vault Enterprise advances AI agent security with recent enhancements now available in public preview.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/advancing-ai-agent-security-in-vault"
+    },
+    {
+        "title": "Introducing tfctl: The CLI for HCP Terraform and TFE",
+        "source": "HashiCorp",
+        "description": "tfctl is the first dedicated CLI for HCP Terraform and Terraform Enterprise, giving engineers and AI agents full, safe access to the platform API.",
+        "published_date": "Date not available",
+        "link": "https://www.hashicorp.com/blog/introducing-tfctl-the-cli-for-hcp-terraform-and-tfe"
+    }
+]

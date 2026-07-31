@@ -1,0 +1,702 @@
+[
+    {
+        "title": "Introducing Profile Frames: Decorative Borders to Make Your Discord Profile Museum-Worthy",
+        "source": "Discord Engineering",
+        "description": "Introducing Profile Frames: a new way to put a finishing touch on your Discord profile. Frames add a decorative border around your profile, giving the whole thing a look that's unmistakably yours.",
+        "published_date": "Wed, 29 Jul 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/introducing-profile-frames-decorative-borders-to-make-your-discord-profile-museum-worthy"
+    },
+    {
+        "title": "Discord Patch Notes: July 7, 2026",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Tue, 07 Jul 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-july-7-2026"
+    },
+    {
+        "title": "Discord is Now on Meta Quest: Reach Out to Your Servers While in VR",
+        "source": "Discord Engineering",
+        "description": "Starting today, Discord is now available to download directly from Meta’s Horizon App Store. No more sideloading. No more using the web app. Grab it using the link in this blog, or at discord.com/download.",
+        "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-is-now-on-meta-quest-reach-out-to-your-servers-while-in-vr"
+    },
+    {
+        "title": "Cost Attribution in Discord’s API",
+        "source": "Discord Engineering",
+        "description": "Discord's API spans 1700+ endpoints across hundreds of Kubernetes deployments. The challenge: tracking per-feature hosting costs without restructuring. Jim Benton helps explain how Discord tackled the situation.",
+        "published_date": "Tue, 30 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/cost-attribution-in-discords-api"
+    },
+    {
+        "title": "Discord Update: June 25, 2026 Changelog",
+        "source": "Discord Engineering",
+        "description": "Here's the Discord Changelog from June 25, 2026, so you can stay informed on what’s new in recent app updates!",
+        "published_date": "Thu, 25 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-update-june-25-2026-changelog"
+    },
+    {
+        "title": "How to Manage Your Discord Desktop Notifications: A Complete Guide",
+        "source": "Discord Engineering",
+        "description": "Not getting pinged for the conversations you wanna know about? This guide walks through server and channel notifications settings, Do Not Disturb, turning off specific notification sounds, and what to check when your pings mysteriously go quiet.",
+        "published_date": "Thu, 18 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-manage-your-discord-desktop-notifications"
+    },
+    {
+        "title": "Updated Requirements to How Apps Access Data in Servers",
+        "source": "Discord Engineering",
+        "description": "Discord is updating requirements to how apps access certain data within servers, changing the review threshold and requiring annual review. Here's what's changing and why.",
+        "published_date": "Wed, 10 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers"
+    },
+    {
+        "title": "Game On: Discord Is Backing the Next Generation of Dutch Gaming Founders",
+        "source": "Discord Engineering",
+        "description": "Together with Techleap, we’re launching the Gaming Founders Circle: a hands-on program for the most ambitious gaming companies in the Netherlands to provide participants with a direct line to the people, investors, and networks that help great games scale.",
+        "published_date": "Wed, 10 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/game-on-discord-is-backing-the-next-generation-of-dutch-gaming-founders"
+    },
+    {
+        "title": "How We Moved Discord Voice to the Edge",
+        "source": "Discord Engineering",
+        "description": "Moving Discord’s voice and video onto Cloudflare's edge network. Closer servers, lower ping in most regions, and a few real bugs getting there.",
+        "published_date": "Tue, 09 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge"
+    },
+    {
+        "title": "Introducing: You Bar",
+        "source": "Discord Engineering",
+        "description": "Introducing the You Bar: an update to the Discord mobile app that celebrates your identity, simpler navigation, and a peek at what’s next.",
+        "published_date": "Mon, 08 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/you-bar"
+    },
+    {
+        "title": "Discord Patch Notes: June 4, 2026",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Thu, 04 Jun 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-june-4-2026"
+    },
+    {
+        "title": "Official Discord Integrations for Steal a Brainrot, Grow a Garden, Brookhaven RP, and more",
+        "source": "Discord Engineering",
+        "description": "How some of the most popular Roblox games have integrated Discord account linking to enhance social features and safety capabilities for official community servers.",
+        "published_date": "Thu, 28 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/official-discord-integrations-for-steal-a-brainrot-grow-a-garden-brookhaven-rp-and-more"
+    },
+    {
+        "title": "Making It Easier Than Ever to Connect with Friends in League & VAL!",
+        "source": "Discord Engineering",
+        "description": "Link your Discord and Riot accounts to sync your friends lists, show your in-game activity as your Discord status, and invite your Discord friends directly to your League or VAL lobby.",
+        "published_date": "Thu, 21 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/making-it-easier-than-ever-to-connect-with-friends-in-league-val"
+    },
+    {
+        "title": "Every Voice and Video Call on Discord Is Now End-to-End Encrypted",
+        "source": "Discord Engineering",
+        "description": "As of March 2026, E2EE is now enforced for every voice and video call on Discord. This represents a multi-year commitment, and Discord’s VP of Engineering is here to talk about why it matters.",
+        "published_date": "Mon, 18 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted"
+    },
+    {
+        "title": "Celebrate Discord’s 11th Birthday with an Exclusive Set of Emoji and Wallpapers",
+        "source": "Discord Engineering",
+        "description": "Discord is turning 11 this year! To celebrate, we made over twenty Discord-themed emojis, along with over twenty wallpapers, and even a digital poster for everyone to download, for free!",
+        "published_date": "Wed, 13 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/celebrate-discords-11th-birthday-with-an-exclusive-set-of-emoji-and-wallpapers"
+    },
+    {
+        "title": "Nitro Now Comes with Xbox Game Pass and New Benefits. Welcome to Nitro Rewards.",
+        "source": "Discord Engineering",
+        "description": "As we hit Nitro’s 10-year anniversary, we're launching Nitro Rewards: a brand-new benefits program built with some of the biggest names in gaming. See what’s coming for Nitro members, for no added cost.",
+        "published_date": "Mon, 11 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/nitro-rewards"
+    },
+    {
+        "title": "How to Use Nitro: A Beginner’s Guide to Discord’s Premium Subscription",
+        "source": "Discord Engineering",
+        "description": "What’s Discord Nitro all about? What perks does it give, and how can you get it? If you’re looking to expand your Nitro knowledge, you’re in the right place.",
+        "published_date": "Mon, 11 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/beginners-guide-to-nitro"
+    },
+    {
+        "title": "How Discord Automates ScyllaDB Clusters at Scale",
+        "source": "Discord Engineering",
+        "description": "You've been asked to stand up a brand-new database cluster, meaning a whole day of configuring dozens of nodes, validating replication, wiring up dual-write pipelines… what if this whole ordeal took less than two hours? This is how we got ourselves into this exact mess, and how we made our way out of it.",
+        "published_date": "Fri, 08 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale"
+    },
+    {
+        "title": "Stock Up in the New Rust Shop! Enjoy a Discord-Only 20% Sale on Most Items until 5/21",
+        "source": "Discord Engineering",
+        "description": "Starting today, you can now browse, purchase, and even gift and wishlist in-game items for Rust directly in Discord! See how it all works, and learn about a hefty two-week Discord-exclusive launch discount on a wide selection of officially-made Rust items.",
+        "published_date": "Thu, 07 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/rust-shop-on-discord-launch-sale"
+    },
+    {
+        "title": "Discord Patch Notes: May 4, 2026",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Mon, 04 May 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-may-4-2026"
+    },
+    {
+        "title": "You’ve Got (Too Much) Mail: Behind the Scenes of the 3/25/26 Voice Outage",
+        "source": "Discord Engineering",
+        "description": "On March 25th, voice and video on Discord suffered major degradation beginning at 12:13 PDT, lasting a little over three hours. Learn how the issue originated, how it affected systems across Discord, how we recovered, and how we’re preventing the same problem from reoccurring.",
+        "published_date": "Wed, 29 Apr 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/behind-the-scenes-of-the-3-25-26-voice-outage"
+    },
+    {
+        "title": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
+        "source": "Discord Engineering",
+        "description": "Too many experiment metrics can make meaningful changes harder to detect. Learn how Discord used simulations and Principal Component Analysis to maximize signal and reduce noise.",
+        "published_date": "Fri, 24 Apr 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters"
+    },
+    {
+        "title": "Making Discord on Desktop Look Just Right: Display Settings to Ease the Eyes",
+        "source": "Discord Engineering",
+        "description": "Learn all sorts of toggles, options, and features on Discord’s desktop app to help you view media at your pace, lower the strength of colors across the app, and make app content easier to see.",
+        "published_date": "Thu, 16 Apr 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes"
+    },
+    {
+        "title": "Discord Patch Notes: April 6, 2026",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Mon, 06 Apr 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-april-6-2026"
+    },
+    {
+        "title": "MULTIPLAYER SEQUEL TO ACCLAIMED AAAA GAME “THE LAST MEADOW” ANNOUNCED: PLAYABLE NOW",
+        "source": "Discord Engineering",
+        "description": "Band together with Discordians from across the world in Last Meadow Online, the world’s first DBMMIRPG. Available to play until April 7, 2026.",
+        "published_date": "Wed, 01 Apr 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/last-meadow-online-announcement"
+    },
+    {
+        "title": "How Multi-Factor Authentication Helps Keep Your Discord Account Safe",
+        "source": "Discord Engineering",
+        "description": "A Discord account is more than just your username and avatar. That’s why it’s important to help keep your account safe and secure by using Multi-Factor Authentication, SMS Backup Authentication & QR Code Login. Learn how to keep your account more secure in the following blog post!",
+        "published_date": "Fri, 27 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/keeping-discord-safe-and-sound"
+    },
+    {
+        "title": "Discord Update: March 24, 2026 Changelog",
+        "source": "Discord Engineering",
+        "description": "Here's the Discord Changelog from March 24, 2026, so you can stay informed on what’s new in recent app updates!",
+        "published_date": "Tue, 24 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-update-march-24-2026-changelog"
+    },
+    {
+        "title": "How ROOST is Advancing Online Safety",
+        "source": "Discord Engineering",
+        "description": "The threat landscape online has shifted dramatically. Many online platforms are left to reinvent safety tools from scratch. That’s the gap ROOST was built to close — and it’s why open-sourcing battle-tested tools like Osprey matters so much.",
+        "published_date": "Mon, 16 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-roost-is-advancing-online-safety"
+    },
+    {
+        "title": "You’re Now Discord Official: Developers, Claim Your Game and Verify Your Server",
+        "source": "Discord Engineering",
+        "description": "Developers can now claim and customize their game’s profiles on Discord. Curate your game’s presence on the platform to help people discover more about your game, and get your server verified in the process! Read on to see how it works.",
+        "published_date": "Thu, 12 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/claim-your-game"
+    },
+    {
+        "title": "Building on the Social Layer of Games: What’s New from GDC 2026",
+        "source": "Discord Engineering",
+        "description": "At GDC 2026, Discord gives developers more ways to close the gap between connection and play.",
+        "published_date": "Mon, 09 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/building-on-the-social-layer-of-games-whats-new-from-gdc-2026"
+    },
+    {
+        "title": "Discord Patch Notes: March 6, 2026",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Fri, 06 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-march-6-2026"
+    },
+    {
+        "title": "Tracing Discord's Elixir Systems (Without Melting Everything)",
+        "source": "Discord Engineering",
+        "description": "Join Senior Software Engineer Nick Krichevsky as he explains how Discord added distributed tracing to Elixir's message passing and optimized it to handle millions of concurrent users.",
+        "published_date": "Wed, 04 Mar 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything"
+    },
+    {
+        "title": "Getting Global Age Assurance Right: What We Got Wrong and What's Changing",
+        "source": "Discord Engineering",
+        "description": "Discord's CTO addresses community concerns about age assurance: no mass ID collection, new vendor transparency commitments, and a delayed global launch until second half of 2026.",
+        "published_date": "Tue, 24 Feb 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing"
+    },
+    {
+        "title": "Osprey: Open Sourcing our Rule Engine",
+        "source": "Discord Engineering",
+        "description": "Discord uses Osprey to quickly detect and remove new types of harm from putting our customers at risk. Now we’re open-sourcing this tool so others can do the same.",
+        "published_date": "Thu, 19 Feb 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/osprey-open-sourcing-our-rule-engine"
+    },
+    {
+        "title": "How to Change Your Theme to Bring Your Vibe to Discord",
+        "source": "Discord Engineering",
+        "description": "Add a splash of personality and make Discord pop by changing Discord’s color scheme! Learn how to adjust the look of Discord on both desktop and mobile.",
+        "published_date": "Thu, 19 Feb 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/bring-your-vibe-to-discord-with-new-themes-in-nitro"
+    },
+    {
+        "title": "Discord Patch Notes: February 4, 2026",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Wed, 04 Feb 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-february-4-2026"
+    },
+    {
+        "title": "How to Customize Your Discord Profile",
+        "source": "Discord Engineering",
+        "description": "Make your first impression count with a profile that represents you how YOU want to be seen. Learn how to edit and customize your profile to have it rep you the right way.",
+        "published_date": "Mon, 02 Feb 2026 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-customize-your-discord-profile"
+    },
+    {
+        "title": "How to Make and Use Custom Emoji on Discord",
+        "source": "Discord Engineering",
+        "description": "Emojis on Discord are special — you can make a little picture out of almost any symbol, in-joke, or bizarre late-night inspiration.",
+        "published_date": "Fri, 12 Dec 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/beginners-guide-to-custom-emojis"
+    },
+    {
+        "title": "Discord Patch Notes: December 8, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Mon, 08 Dec 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-december-8-2025"
+    },
+    {
+        "title": "Gift Ideas for the Dedicated Discord User in Your Life",
+        "source": "Discord Engineering",
+        "description": "We’ve got plenty of gift ideas, from those who game through the night, to those who decorate their profile just right — let’s dig in!",
+        "published_date": "Mon, 08 Dec 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/gift-ideas-for-the-discord-user"
+    },
+    {
+        "title": "Your Discord Checkpoint is Rolling Out! Celebrate What You Did in 2025",
+        "source": "Discord Engineering",
+        "description": "How many messages did you send? How long did you hang out in voice? Who’d you talk with the most? Stop by your end-of-year Checkpoint, a recap of the stuff YOU did on Discord throughout the year!",
+        "published_date": "Thu, 04 Dec 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/checkpoint-2025-discord-year-in-review"
+    },
+    {
+        "title": "Save and Display Your Faves: Add Discord Shop & Marvel Rivals Items to Your Profile’s Wishlist",
+        "source": "Discord Engineering",
+        "description": "Keep track of all the stuff from the Shop you’ve been wanting to purchase with the new Wishlist feature. Display the stuff you’ve been eyeing on your profile, and if you’re lucky enough, maybe one of your friends may see it and gift it to you…",
+        "published_date": "Tue, 02 Dec 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/save-and-display-your-faves-add-discord-shop-marvel-rivals-items-to-your-profiles-wishlist"
+    },
+    {
+        "title": "Bringing In-Game Commerce to Discord Communities",
+        "source": "Discord Engineering",
+        "description": "By bringing commerce directly to official game communities, we're giving game developers the opportunity to benefit from these dynamics, creating incremental revenue that complements their existing storefronts.",
+        "published_date": "Tue, 02 Dec 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/bringing-in-game-commerce-to-discord-communities"
+    },
+    {
+        "title": "How to Link Discord to Battlefield 6, Marvel Rivals & More",
+        "source": "Discord Engineering",
+        "description": "Some of the most popular multiplayer games have added the ability to directly link your Discord account to the game! Learn how to link your Discord account to some big-name titles and see what sorta perks it provides.",
+        "published_date": "Fri, 14 Nov 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-link-discord-to-popular-multiplayer-games"
+    },
+    {
+        "title": "How to Share What You’re Playing, Listening to, or Watching as Your Status on Discord",
+        "source": "Discord Engineering",
+        "description": "Playing a game right now? Listening to some tunes, or catching up on that one anime your friends won’t stop talking about? Learn how to show off what you’re up to as your Discord status and show @everyone what’s up!",
+        "published_date": "Fri, 14 Nov 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-share-what-youre-playing-listening-to-or-watching-as-your-status-on-discord"
+    },
+    {
+        "title": "Discord Update: November 6, 2025 Changelog",
+        "source": "Discord Engineering",
+        "description": "Here's the Discord Changelog from November 6, 2025, so you can stay informed on what’s new in recent app updates!",
+        "published_date": "Thu, 06 Nov 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-update-november-6-2025-changelog"
+    },
+    {
+        "title": "A Cornucopia of Updates Make Discord on Desktop Fresher Than a Crisp Fall Breeze",
+        "source": "Discord Engineering",
+        "description": "This fall, emoji making gets faster, the Settings page gets a redesign, Group DMs are easier to customize, more games gain support for special Discord-powered capabilities, and Family Center gets some expanded features. Take a peek at what’s new this season!",
+        "published_date": "Thu, 06 Nov 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/a-cornucopia-of-updates-make-discord-on-desktop-fresher-than-a-crisp-fall-breeze"
+    },
+    {
+        "title": "Discord Patch Notes: November 4, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Tue, 04 Nov 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-november-4-2025"
+    },
+    {
+        "title": "From Single-Node to Multi-GPU Clusters: How Discord Made Distributed Compute Easy for ML Engineers",
+        "source": "Discord Engineering",
+        "description": "From manual GPU configs to one-command clusters: Join Serrana Aguirregaray and Nathaniel Jenkins as they tell the story of Discord's journey to build a developer-friendly ML infrastructure on Ray for 200M+ monthly active users.",
+        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers"
+    },
+    {
+        "title": "During October, Treat a Friend to Nitro and Trick Out Your Profile for Halloween 🎃",
+        "source": "Discord Engineering",
+        "description": "Do you embrace tricks in the Shop or turn them into treats? Trick out your profile with shockingly sweet decorations, or treat your friend to Nitro and earn something for yourself in return!",
+        "published_date": "Wed, 08 Oct 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/during-october-treat-a-friend-to-nitro-and-trick-out-your-profile-for-halloween"
+    },
+    {
+        "title": "Discord Patch Notes: October 7, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Tue, 07 Oct 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-october-7-2025"
+    },
+    {
+        "title": "Discord Update: September 25, 2025 Changelog",
+        "source": "Discord Engineering",
+        "description": "Here's the Discord Changelog from September 25, 2025, so you can stay informed on what’s new in recent app updates!",
+        "published_date": "Thu, 25 Sep 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-update-september-25-2025-changelog"
+    },
+    {
+        "title": "New Looks for Nitro, New Looks for You. Get Yourself a Nitro-exclusive Profile Bundle!",
+        "source": "Discord Engineering",
+        "description": "Between now and September 30th, 2025, new and existing Nitro members can claim a profile bundle matching Nitro's new look, including an Avatar Decoration, Profile Effect, and a Nameplate! Open this blog to see the details.",
+        "published_date": "Thu, 25 Sep 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/new-looks-for-nitro-new-looks-for-you-get-yourself-a-nitro-exclusive-profile-bundle"
+    },
+    {
+        "title": "Staff Picks, September 2025: Welcome to Our Video Game Museum",
+        "source": "Discord Engineering",
+        "description": "Happy National Video Games Day! We’re hearing from Veronica, Scott, Tyler, and Anni about which games would go in their hypothetical video games museum. Nothing better than honoring a beloved game by putting it behind a glass case!",
+        "published_date": "Fri, 12 Sep 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/staff-picks-september-2025-welcome-to-our-video-game-museum"
+    },
+    {
+        "title": "Discord Patch Notes: September 3, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Wed, 03 Sep 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-september-3-2025"
+    },
+    {
+        "title": "Bringing DAVE to All Discord Platforms",
+        "source": "Discord Engineering",
+        "description": "From March 1st, 2026, all clients and apps must be updated to utilize DAVE’s end-to-end encryption support for voice and video calls. In this blog, we explore the challenges we encountered bringing E2EE to browsers, and share what you may need to do to ensure your app can still connect to voice calls in 2026.",
+        "published_date": "Tue, 02 Sep 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/bringing-dave-to-all-discord-platforms"
+    },
+    {
+        "title": "Starting Your First Discord Server",
+        "source": "Discord Engineering",
+        "description": "Looking to create a new Discord server for the first time? How do you invite your friends to it? What even IS a text or voice channel in Discord? Follow along as we help you start up a new place to talk and play games with your friends.",
+        "published_date": "Wed, 27 Aug 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/starting-your-first-discord-server"
+    },
+    {
+        "title": "Transforming Game Discovery with Instant Play Experiences on Discord",
+        "source": "Discord Engineering",
+        "description": "Discord and NVIDIA partner to showcase cloud-streamed gaming experiences on Discord to transform game discovery for players and developers, starting with Fortnite.",
+        "published_date": "Mon, 18 Aug 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/transforming-game-discovery-with-instant-play-experiences-on-discord"
+    },
+    {
+        "title": "Discord’s Powerful Cross-Platform Chat: Ready for Your Game",
+        "source": "Discord Engineering",
+        "description": "The Discord Social SDK is coming out of closed beta! Developers can now take advantage of Discord’s voice and text chat in their games and help players connect for longer playtimes by enhancing their multiplayer experiences.",
+        "published_date": "Wed, 13 Aug 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discords-powerful-cross-platform-chat-ready-for-your-game"
+    },
+    {
+        "title": "Introducing the Community Server Cleanup Report for August 2025",
+        "source": "Discord Engineering",
+        "description": "Discord has built a whole new team dedicated to bringing communities more control, more power, and fewer reasons to scream into the void. Check out the first things they've done, including fixes and improvements for server management issues, onboarding, Forum channels, and mod tools.",
+        "published_date": "Fri, 08 Aug 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/introducing-the-community-server-cleanup-report-for-august-2025"
+    },
+    {
+        "title": "Discord Patch Notes: August 4, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Mon, 04 Aug 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-august-4-2025"
+    },
+    {
+        "title": "ROOST Announces “Coop” and “Osprey”: Free, Open-Source Trust and Safety Infrastructure for the AI Era",
+        "source": "Discord Engineering",
+        "description": "Open-sourced tools put enterprise-grade content safety and threat investigation capabilities within reach of organizations of all sizes",
+        "published_date": "Mon, 21 Jul 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/roost-announces-coop-and-osprey-free-open-source-trust-and-safety-infrastructure-for-the-ai-era"
+    },
+    {
+        "title": "Discord for Business Vol. 2: Cannes-worthy ad product updates",
+        "source": "Discord Engineering",
+        "description": "Built-in rewards, brand lift analytics, mobile Quests… and our Cannes highlights!",
+        "published_date": "Wed, 16 Jul 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-for-business-cannes-worthy-ad-product-updates"
+    },
+    {
+        "title": "Reward Your Play: Complete Quests. Earn Orbs. Get Sweet Stuff.",
+        "source": "Discord Engineering",
+        "description": "Introducing a new type of Quest reward: Discord Orbs! Earn them by completing Quests and redeem them in the Shop for hundreds of different items — including Discord Nitro credit. Available on desktop and mobile.",
+        "published_date": "Mon, 14 Jul 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-orbs"
+    },
+    {
+        "title": "*FLAILS AROUND* SUMMER SPECIAL! JOIN NITRO, GET AN EXTRA MONTH OF NITRO ON US!",
+        "source": "Discord Engineering",
+        "description": "NITRO, NITRO, NITRO! From now until July 15th, 2025, if qualifying users start a new monthly Nitro membership, they’ll get a SECOND month of Discord Nitro to top ‘em off!",
+        "published_date": "Tue, 08 Jul 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/summer-special-join-nitro-get-an-extra-month-on-us"
+    },
+    {
+        "title": "Discord Patch Notes: July 7, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Mon, 07 Jul 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-july-7-2025"
+    },
+    {
+        "title": "Discord Update: June 30, 2025 Changelog",
+        "source": "Discord Engineering",
+        "description": "Here's the Discord Changelog from June 30, 2025, so you can stay informed on what’s new in recent app updates!",
+        "published_date": "Mon, 30 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-update-june-30-2025-changelog"
+    },
+    {
+        "title": "Authenticity Matters: Discord's Pride Month 2025",
+        "source": "Discord Engineering",
+        "description": "This June, our PRIDE ERG came together to celebrate the meaningful act of simply being who you are and bringing your whole self to work.",
+        "published_date": "Fri, 27 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/authenticity-matters-pride-month-2025"
+    },
+    {
+        "title": "Staff Picks, June 2025: Summer of Showcases",
+        "source": "Discord Engineering",
+        "description": "23 game showcases in June, and just as many recommendations! We’re talking about all the big announcements and big summer vibes with Alex, Armando, Matt, and… Matt???",
+        "published_date": "Tue, 24 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/staff-picks-june-2025-summer-of-showcases"
+    },
+    {
+        "title": "How to Set Up Your Server’s Roles for Members, Mods & Admins",
+        "source": "Discord Engineering",
+        "description": "There’s a LOT of Role permissions to comb through for your Discord server, and every community has its own needs. In this article, we’ll give some general guidance on each permission to help you decide what works best.",
+        "published_date": "Fri, 20 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-set-up-your-servers-roles-for-members-mods-admins"
+    },
+    {
+        "title": "Get More From Your Boosts With New Server Perks",
+        "source": "Discord Engineering",
+        "description": "We're bringing you new ways to customize your server with additional perks that delight members, along with a new way to spend available Boosts on these additional server perks — no level required.",
+        "published_date": "Mon, 16 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/get-more-from-your-boosts-with-new-server-perks"
+    },
+    {
+        "title": "Gift Nitro and Earn A Flavorful Splash for your Avatar",
+        "source": "Discord Engineering",
+        "description": "Between now and June 20, if you treat your friend to either a monthly or annual Nitro membership, you’ll earn the Freshly Picked Avatar Decoration to splash across your profile pic!",
+        "published_date": "Fri, 13 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/gift-nitro-and-earn-a-flavorful-splash-for-your-avatar"
+    },
+    {
+        "title": "Discord Social SDK Updates & Integrations",
+        "source": "Discord Engineering",
+        "description": "Dig into the latest news about the Discord Social SDK! Learn how Facepunch Studios implemented the SDK directly in their game Rust to enhance their player’s social experience, and how you can do the same.",
+        "published_date": "Thu, 05 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-social-sdk-updates-integrations"
+    },
+    {
+        "title": "Discord Patch Notes: June 3, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Tue, 03 Jun 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-june-3-2025"
+    },
+    {
+        "title": "How to Use the Discord Soundboard & Add More Sounds",
+        "source": "Discord Engineering",
+        "description": "Discord’s Soundboard lets you instantly react to the call with quick custom soundbites. Where do you use it? How do you add more sounds, and how long can they be? Listen closely as we lay it all down!",
+        "published_date": "Thu, 29 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-use-the-discord-soundboard-add-more-sounds"
+    },
+    {
+        "title": "Checkpoint 3: Leveling Up Discord Quests with Orbs and Advanced Measurement",
+        "source": "Discord Engineering",
+        "description": "We're expanding our Quests advertising product with a new reward for users: Discord Orbs. We’re also introducing a new partnership with Kantar, which will further enhance the return on investment measurement and analytics capabilities of Quests for advertisers.",
+        "published_date": "Wed, 28 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement"
+    },
+    {
+        "title": "Go Beyond, Plus Ultra! with the My Hero Academia Collection",
+        "source": "Discord Engineering",
+        "description": "Become the hero you want to be with the My Hero Academia Collection, featuring nine Avatar Decorations and three Profile Effects based upon fan-favorite heroes and villains.",
+        "published_date": "Wed, 21 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/go-beyond-plus-ultra-with-the-my-hero-academia-collection"
+    },
+    {
+        "title": "Introducing the Discord for Business Newsletter, Vol. 1",
+        "source": "Discord Engineering",
+        "description": "Exclusive to partners and friends, this newsletter brings you the latest updates on business opportunities within the world of Discord. Read the first issue and sign up for future entries on the Blog!",
+        "published_date": "Wed, 14 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-for-business-newsletter-vol-1"
+    },
+    {
+        "title": "Thank You for Ten Years",
+        "source": "Discord Engineering",
+        "description": "As we celebrate our tenth trip around the sun, let’s see what you and your friends have been up to on Discord over the past decade.",
+        "published_date": "Tue, 13 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/thank-you-for-ten-years"
+    },
+    {
+        "title": "Staff Picks, May 2025: The Games That Brought Us to Discord",
+        "source": "Discord Engineering",
+        "description": "It’s Discord’s Birthday today! In this month’s Staff Picks, we’ll hear from Christina, Emi, Jeremy, and Armando about which games introduced them to Discord and the game recs they currently have.",
+        "published_date": "Tue, 13 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/staff-picks-may-2025-the-games-that-brought-us-to-discord"
+    },
+    {
+        "title": "STAR WARS™ Makes Its Way to Discord",
+        "source": "Discord Engineering",
+        "description": "For this year’s Power of the Force celebrations, we’re hyped to release a brand-new collection of Star Wars themed Avatar Decorations and Profile Effects!",
+        "published_date": "Sun, 04 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/star-wars-makes-its-way-to-discord"
+    },
+    {
+        "title": "Discord Patch Notes: May 1, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Thu, 01 May 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-may-1-2025"
+    },
+    {
+        "title": "How Discord Indexes Trillions of Messages",
+        "source": "Discord Engineering",
+        "description": "Learn how Discord scaled its search infrastructure to index trillions of messages and unlock new features.",
+        "published_date": "Thu, 24 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-discord-indexes-trillions-of-messages"
+    },
+    {
+        "title": "Discord Appoints Humam Sakhnini as Chief Executive Officer",
+        "source": "Discord Engineering",
+        "description": "Discord names Humam Sakhnini as the company’s new CEO as co-founder Jason Citron remains on the board and transitions to CEO advisor.",
+        "published_date": "Wed, 23 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini"
+    },
+    {
+        "title": "Passing the Torch",
+        "source": "Discord Engineering",
+        "description": "Read the message sent to Discord employees from CEO Jason Citron sharing his decision to transition out of the role and appoint Humam Sakhnini as the company's new chief executive.",
+        "published_date": "Wed, 23 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/passing-the-torch"
+    },
+    {
+        "title": "Worthy of a Plaque: Nameplates Land in the Shop",
+        "source": "Discord Engineering",
+        "description": "Today, we’re announcing a brand new way to express yourself: Nameplates. Add a pop of personality to your display name when it’s shown in your favorite chat channels. Read on to see how they work!",
+        "published_date": "Tue, 22 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/nameplates-land-in-the-shop"
+    },
+    {
+        "title": "Make More Closet Space! Nitro Members Can Now Keep Avatar Decoration Quest Rewards for Longer",
+        "source": "Discord Engineering",
+        "description": "With Nitro, your Quest rewards don’t fade—hold onto exclusive decorations long after the adventure ends.",
+        "published_date": "Mon, 14 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/nitro-members-keep-quest-rewards-longer"
+    },
+    {
+        "title": "How to Use Discord’s In-Game Overlay to Talk While Playing on PC",
+        "source": "Discord Engineering",
+        "description": "Discord’s In-Game Overlay lets you join voice and video calls, see who’s talkin’, and stream your gameplay without ever having to alt-tab out of your current match! Learn how it works and how you can customize it to your liking.",
+        "published_date": "Thu, 10 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-use-discords-in-game-overlay-to-talk-while-playing-on-pc"
+    },
+    {
+        "title": "Overclocking dbt: Discord's Custom Solution in Processing Petabytes of Data",
+        "source": "Discord Engineering",
+        "description": "Explore how Discord supercharged dbt with a tailored solution designed for performance, developer productivity, and data quality.",
+        "published_date": "Wed, 09 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data"
+    },
+    {
+        "title": "Wicked Saints Turns Players into IRL Superheroes  with the Help of e.l.f. Beauty and Discord",
+        "source": "Discord Engineering",
+        "description": "First-of-its-kind gaming platform, World Reborn, launches an 8-week limited run to empower players toward real-life impact through brand-led missions.",
+        "published_date": "Tue, 08 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/wicked-saints-turns-players-into-irl-superheroes-with-e-l-f-beauty-and-discord"
+    },
+    {
+        "title": "Discord Patch Notes: April 3, 2025",
+        "source": "Discord Engineering",
+        "description": "Check out the finer details of the more technical fixes implemented into Discord recently.",
+        "published_date": "Thu, 03 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-patch-notes-april-3-2025"
+    },
+    {
+        "title": "Staff Picks, April 2025: All The Adaptations",
+        "source": "Discord Engineering",
+        "description": "With all the new video game adaptations coming out in April, we’re asking Veronica, Cody, and Emi what their favorite ones have been so far and which games deserve a great adaptation that has yet to come.",
+        "published_date": "Wed, 02 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/staff-picks-april-2025-all-the-adaptations"
+    },
+    {
+        "title": "MAJOR NEWS: DISCORD ANNOUNCES ITS FIRST IN-HOUSE AAAA VIDEO GAME, “THE LAST MEADOW”",
+        "source": "Discord Engineering",
+        "description": "Discord’s new in-house studio Big Wump Games announces its first release: The Last Meadow. Available from April 1 to April 7, 2025 exclusively on Discord.",
+        "published_date": "Tue, 01 Apr 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/the-last-meadow"
+    },
+    {
+        "title": "Checkpoint 2: Our First Year With Discord Quests",
+        "source": "Discord Engineering",
+        "description": "In 2024, we launched Quests, an innovative rewarded ad format designed for Discord’s gaming audience. Join us as we look back at over 70 campaigns run during our first year.",
+        "published_date": "Mon, 31 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/celebrating-one-year-of-quests"
+    },
+    {
+        "title": "How to Create & Upload Your Own Stickers on Discord",
+        "source": "Discord Engineering",
+        "description": "Stickers on Discord let you express yourself in BIG ways. Learn how to create, upload, and use stickers on Discord.",
+        "published_date": "Thu, 27 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/how-to-create-upload-your-own-stickers-on-discord"
+    },
+    {
+        "title": "Discord Update: March 25, 2025 Changelog",
+        "source": "Discord Engineering",
+        "description": "Here's the Discord Changelog from March 25, 2025, so you can stay informed on what’s new in recent app updates!",
+        "published_date": "Tue, 25 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/discord-update-march-25-2025-changelog"
+    },
+    {
+        "title": "Revamped Overlay & Refreshed Desktop Give Game Time a Boost",
+        "source": "Discord Engineering",
+        "description": "We’re releasing a new and improved version of the Game Overlay, along with a refreshed desktop app so you can further customize Discord to your style.",
+        "published_date": "Tue, 25 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/player-release-q12025"
+    },
+    {
+        "title": "Discord Announces First Mobile Ad Format, Broadening Advertising Opportunities",
+        "source": "Discord Engineering",
+        "description": "Discord announces plans to expand its successful Video Quests advertising format to mobile devices, making the company's first mobile ad offering.",
+        "published_date": "Thu, 20 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/announcing-quests-advertising-on-mobile"
+    },
+    {
+        "title": "Discord Launches SDK to Power Social Infrastructure and Communications for Games",
+        "source": "Discord Engineering",
+        "description": "Announcing Discord Social SDK, which enables developers of all sizes to tap into Discord’s social infrastructure and drive their game’s social and multiplayer experiences — with or without a Discord account.",
+        "published_date": "Mon, 17 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/announcing-discord-social-sdk-to-power-game-comms"
+    },
+    {
+        "title": "Announcing Discord’s Social SDK, Helping Power Your Game’s Social Experiences",
+        "source": "Discord Engineering",
+        "description": "Today, we’re announcing our new Social SDK that empowers game developers of all sizes to implement Discord-powered features directly in their games, helping players easily talk, connect and enhance their social experiences.",
+        "published_date": "Mon, 17 Mar 2025 00:00:00 GMT",
+        "link": "https://discord.com/blog/announcing-discords-social-sdk-helping-power-your-games-social-experiences"
+    }
+]
